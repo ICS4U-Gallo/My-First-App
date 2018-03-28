@@ -150,3 +150,5 @@ bash ./robuntu-update.sh
 rm ./robuntu-update.sh
 test-mode start
 test-mode stop
+test-mode start
+test-mode stop
