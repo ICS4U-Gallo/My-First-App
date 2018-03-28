@@ -143,3 +143,8 @@ cd tsang
 cd pbd-solutions
 cd 167
 javac database.java
+$ wget https://raw.githubusercontent.com/MrGallo/robuntu-admin/master/robuntu-update.sh
+$ wget https://raw.githubusercontent.com/MrGallo/robuntu-admin/master/robuntu-update.shwget https://raw.githubusercontent.com/MrGallo/robuntu-admin/master/robuntu-update.sh
+wget https://raw.githubusercontent.com/MrGallo/robuntu-admin/master/robuntu-update.sh
+bash ./robuntu-update.sh
+rm ./robuntu-update.sh
