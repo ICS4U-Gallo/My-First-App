@@ -148,3 +148,5 @@ $ wget https://raw.githubusercontent.com/MrGallo/robuntu-admin/master/robuntu-up
 wget https://raw.githubusercontent.com/MrGallo/robuntu-admin/master/robuntu-update.sh
 bash ./robuntu-update.sh
 rm ./robuntu-update.sh
+test-mode start
+test-mode stop
