@@ -1,0 +1,385 @@
+2018-02-27 13:30:12,646 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-02-27 13:30:12,675 [     29]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PY-173.4301.16, 11 Jan 2018 05:59) 
+2018-02-27 13:30:12,675 [     29]   INFO -        #com.intellij.idea.Main - OS: Linux (4.4.86-11979-g09b49365a3c4, amd64) 
+2018-02-27 13:30:12,675 [     29]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1024-b11 (JetBrains s.r.o) 
+2018-02-27 13:30:12,675 [     29]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b11 (OpenJDK 64-Bit Server VM) 
+2018-02-27 13:30:12,686 [     40]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:/opt/PyCharm/lib/boot.jar -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/robuntu/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/robuntu/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharm2017.3 -Djb.vmOptionsFile=/opt/PyCharm/bin/pycharm64.vmoptions -Didea.platform.prefix=Python 
+2018-02-27 13:30:12,692 [     46]   INFO -        #com.intellij.idea.Main - ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@1b083996[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0] 
+2018-02-27 13:30:12,693 [     47]   INFO -        #com.intellij.idea.Main - ext: /opt/PyCharm/jre64/lib/ext: [jfxrt.jar, zipfs.jar, sunjce_provider.jar, cldrdata.jar, jaccess.jar, meta-index, sunec.jar, dnsns.jar, nashorn.jar, localedata.jar, sunpkcs11.jar] 
+2018-02-27 13:30:12,693 [     47]   INFO -        #com.intellij.idea.Main - JNU charset: ANSI_X3.4-1968 
+2018-02-27 13:30:12,743 [     97]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 49 ms 
+2018-02-27 13:30:34,916 [  22270]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2018-02-27 13:30:35,576 [  22930]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2018-02-27 13:30:35,584 [  22938]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2018-02-27 13:30:47,023 [  34377]   INFO - .intellij.idea.IdeaApplication - WM detected: Xfwm4 
+2018-02-27 13:30:47,731 [  35085]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2018-02-27 13:30:48,240 [  35594]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2018-02-27 13:30:48,243 [  35597]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2018-02-27 13:30:48,967 [  36321]   INFO - llij.ide.plugins.PluginManager - 53 plugins initialized in 1639 ms 
+2018-02-27 13:30:48,970 [  36324]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: AngularJS (173.4301.16), CSS Support (173.4301.16), CVS Integration (11), CoffeeScript (2.0), Concurrency Visualiser (0.1), Database Tools and SQL (173.4301.16), Django Database Support Integration (1.0), Docker integration (173.4301.16), EditorConfig (173.4301.16), File Watchers (173.4301.16), GNU GetText files support (*.po) (173.4301.16), Gherkin (999.999), Git Integration (8.1), GitHub (173.4301.16), HTML Tools (2.0), Haml (173.4301.16), IDEA CORE (173.4301.16), IPython Notebook (0.1), Ini4Idea (173.4301.16), IntelliLang (8.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Less support (173.4301.16), Mercurial Integration (10.0), Perforce Integration (2.0), Properties Support (173.4301.16), Puppet Support (173.4301.16), Python BDD support for engines, based on Gherkin (cucumber, lettuce, behave) (0.1), Python Docker (VERSION), Python IntelliLang (VERSION), Python JavaScript Debugger Integration (VERSION), Python Localization Integration (VERSION), Python Profiler (0.1), Python ReStructureText Integration (1.0), Python Remote Interpreter (VERSION), Python Terminal (VERSION), Python UML Diagrams (VERSION), REST Client (173.4301.16), ReStructuredText Support (173.4301.16), Remote Hosts Access (0.1), SSH Remote Run (0.1), Sass support (173.4301.16), Settings Repository (173.4301.16), Stylus support (999.999), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), TextMate bundles support (173.4301.16), UML Support (1.0), Vagrant (173.4301.16), tslint (173.4301.16) 
+2018-02-27 13:30:48,971 [  36325]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: YAML (173.4301.16) 
+2018-02-27 13:30:50,963 [  38317]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: '/home/robuntu/.PyCharm2017.3/system/caches/names.dat' does not exist 
+2018-02-27 13:30:50,975 [  38329]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=713 
+2018-02-27 13:30:51,176 [  38530]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/PyCharm/bin/fsnotifier64 
+2018-02-27 13:30:51,263 [  38617]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-02-27 13:30:54,836 [  42190]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2018-02-27 13:30:54,837 [  42191]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2018-02-27 13:30:55,315 [  42669]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-02-27 13:30:55,403 [  42757]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@2645a22b 
+2018-02-27 13:30:55,835 [  43189]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-02-27 13:30:55,951 [  43305]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-02-27 13:30:56,759 [  44113]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:479 
+2018-02-27 13:30:56,817 [  44171]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:54 
+2018-02-27 13:30:57,301 [  44655]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:455 
+2018-02-27 13:30:57,320 [  44674]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:19 
+2018-02-27 13:30:58,455 [  45809]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@6e1e36c9 
+2018-02-27 13:30:58,461 [  45815]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@7d0f1436 
+2018-02-27 13:30:58,464 [  45818]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@709920c 
+2018-02-27 13:30:58,648 [  46002]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt id-index from /home/robuntu/.PyCharm2017.3/system/index/.persistent/prebuilt/Python/id-index.input 
+2018-02-27 13:30:59,599 [  46953]   INFO - plication.impl.ApplicationImpl - 81 application components initialized in 12319ms 
+2018-02-27 13:30:59,628 [  46982]   INFO - .intellij.idea.IdeaApplication - App initialization took 63671 ms 
+2018-02-27 13:31:00,937 [  48291]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2/27/18 1:30 PM) 
+2018-02-27 13:31:02,181 [  49535]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:ActionScript,Cython,Puppet,Python,TypeScript JSX,HTML,TypeScript,PythonStub,Stylus,XML,CoffeeScript,Less,CSS,Jinja2,SQL,Sass,Ini,Properties,JSX Harmony,JavaScript,Literate CoffeeScript,Flow,SCSS,Mako,ECMAScript 6 
+2018-02-27 13:31:04,684 [  52038]   INFO - pl$FileIndexDataInitialization - Initialization done:7873 
+2018-02-27 13:31:05,950 [  53304]   INFO - j.ide.ui.OptionsTopHitProvider - 3857 ms spent to cache options in application 
+2018-02-27 13:31:05,966 [  53320]   INFO - exImpl$StubIndexInitialization - Initialization done:1281 
+2018-02-27 13:31:06,950 [  54304]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@3a93c74c 
+2018-02-27 13:31:08,994 [  56348]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 1089 ms 
+2018-02-27 13:31:09,618 [  56972]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@14a3ccbd 
+2018-02-27 13:31:11,518 [  58872]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@629bca85 
+2018-02-27 13:31:51,118 [  98472]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 158 ms 
+2018-02-27 13:31:51,147 [  98501]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-02-27 13:31:51,165 [  98519]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/robuntu/.PyCharm2017.3/system/python_stubs/-1247971763 
+2018-02-27 13:31:51,173 [  98527]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /opt/PyCharm/helpers/python-skeletons 
+2018-02-27 13:31:51,338 [  98692]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py list 
+2018-02-27 13:31:51,339 [  98693]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py list 
+2018-02-27 13:31:53,267 [ 100621]   WARN - hon.packaging.PyPIPackageCache - Cannot load pypi-cache.json package cache from the filesystem 
+java.nio.file.NoSuchFileException: /home/robuntu/.PyCharm2017.3/system/python_packages/pypi-cache.json
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:384)
+	at java.nio.file.Files.newInputStream(Files.java:152)
+	at java.nio.file.Files.newBufferedReader(Files.java:2784)
+	at com.jetbrains.python.packaging.PyAbstractPackageCache.load(PyAbstractPackageCache.java:43)
+	at com.jetbrains.python.packaging.PyPIPackageCache.getInstance(PyPIPackageCache.java:19)
+	at com.jetbrains.python.packaging.ui.PyPackageManagementService.a(PyPackageManagementService.java:127)
+	at com.jetbrains.python.packaging.ui.PyPackageManagementService.getAllPackagesCached(PyPackageManagementService.java:116)
+	at com.intellij.webcore.packaging.InstalledPackagesPanel$11.run(InstalledPackagesPanel.java:423)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:713)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:543)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:488)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:94)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$2.run(ProgressManagerImpl.java:165)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:315)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-02-27 13:32:07,501 [ 114855]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py untar /opt/PyCharm/helpers/setuptools-28.8.0.tar.gz 
+2018-02-27 13:32:07,507 [ 114861]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py list 
+2018-02-27 13:32:08,369 [ 115723]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /tmp/tmp6pmy4a3wpycharm-management/setuptools-28.8.0/setup.py install 
+2018-02-27 13:32:17,185 [ 124539]   INFO - lij.openapi.util.io.FileUtilRt -  
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.openapi.util.io.FileUtilRt.deleteRecursivelyNIO(FileUtilRt.java:730)
+	at com.intellij.openapi.util.io.FileUtil.delete(FileUtil.java:443)
+	at com.jetbrains.python.packaging.PyPackageManagerImpl.installManagement(PyPackageManagerImpl.java:129)
+	at com.jetbrains.python.packaging.PyPackageManagerImpl.installManagement(PyPackageManagerImpl.java:95)
+	at com.jetbrains.python.packaging.PyPackageManagerUI$InstallManagementTask.runTask(PyPackageManagerUI.java:307)
+	at com.jetbrains.python.packaging.PyPackageManagerUI$PackagingTask.run(PyPackageManagerUI.java:155)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:713)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:543)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:488)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:94)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$2.run(ProgressManagerImpl.java:165)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:315)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.intellij.openapi.util.io.FileUtilRt$NIOReflect$1$2: Failed to delete /tmp/tmp6pmy4a3wpycharm-management/setuptools-28.8.0/dist/setuptools-28.8.0-py3.6.egg
+2018-02-27 13:32:17,201 [ 124555]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py untar /opt/PyCharm/helpers/pip-9.0.1.tar.gz 
+2018-02-27 13:32:17,733 [ 125087]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /tmp/tmp71urcbc3pycharm-management/pip-9.0.1/setup.py install 
+2018-02-27 13:32:28,028 [ 135382]   INFO - lij.openapi.util.io.FileUtilRt -  
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.openapi.util.io.FileUtilRt.deleteRecursivelyNIO(FileUtilRt.java:730)
+	at com.intellij.openapi.util.io.FileUtil.delete(FileUtil.java:443)
+	at com.jetbrains.python.packaging.PyPackageManagerImpl.installManagement(PyPackageManagerImpl.java:129)
+	at com.jetbrains.python.packaging.PyPackageManagerImpl.installManagement(PyPackageManagerImpl.java:99)
+	at com.jetbrains.python.packaging.PyPackageManagerUI$InstallManagementTask.runTask(PyPackageManagerUI.java:307)
+	at com.jetbrains.python.packaging.PyPackageManagerUI$PackagingTask.run(PyPackageManagerUI.java:155)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:713)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:543)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:488)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:94)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$2.run(ProgressManagerImpl.java:165)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:315)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.intellij.openapi.util.io.FileUtilRt$NIOReflect$1$2: Failed to delete /tmp/tmp71urcbc3pycharm-management/pip-9.0.1/dist/pip-9.0.1-py3.6.egg
+2018-02-27 13:32:28,435 [ 135789]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 202 ms 
+2018-02-27 13:32:28,436 [ 135790]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-02-27 13:32:28,489 [ 135843]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/robuntu/.PyCharm2017.3/system/python_stubs/-1247971763 
+2018-02-27 13:32:28,489 [ 135843]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /opt/PyCharm/helpers/python-skeletons 
+2018-02-27 13:32:28,514 [ 135868]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py list 
+2018-02-27 13:32:28,839 [ 136193]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 136 ms 
+2018-02-27 13:32:28,839 [ 136193]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-02-27 13:32:28,844 [ 136198]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/robuntu/.PyCharm2017.3/system/python_stubs/-1247971763 
+2018-02-27 13:32:28,844 [ 136198]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /opt/PyCharm/helpers/python-skeletons 
+2018-02-27 13:32:38,047 [ 145401]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 63 ms 
+2018-02-27 13:32:38,048 [ 145402]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-02-27 13:32:38,050 [ 145404]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/robuntu/.PyCharm2017.3/system/python_stubs/-1247971763 
+2018-02-27 13:32:38,050 [ 145404]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /opt/PyCharm/helpers/python-skeletons 
+2018-02-27 13:32:38,088 [ 145442]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py list 
+2018-02-27 13:32:41,944 [ 149298]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py list 
+2018-02-27 13:32:49,267 [ 156621]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py install --build-dir /tmp/pycharm-packaging1 Pygame 
+2018-02-27 13:33:02,137 [ 169491]   INFO - python.packaging.PyPackageUtil - Refreshing installed packages for SDK /usr/bin/python3.6 
+2018-02-27 13:33:02,138 [ 169492]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py list 
+2018-02-27 13:33:03,169 [ 170523]   INFO - lij.openapi.util.io.FileUtilRt -  
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.openapi.util.io.FileUtilRt.deleteRecursivelyNIO(FileUtilRt.java:730)
+	at com.intellij.openapi.util.io.FileUtil.delete(FileUtil.java:443)
+	at com.jetbrains.python.packaging.PyPackageManagerImpl.install(PyPackageManagerImpl.java:221)
+	at com.jetbrains.python.packaging.PyPackageManagerUI$InstallTask.runTask(PyPackageManagerUI.java:258)
+	at com.jetbrains.python.packaging.PyPackageManagerUI$PackagingTask.run(PyPackageManagerUI.java:155)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:713)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:543)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:488)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:94)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$2.run(ProgressManagerImpl.java:165)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:315)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.intellij.openapi.util.io.FileUtilRt$NIOReflect$1$2: Failed to delete /tmp/pycharm-packaging1/Pygame/pygame-1.9.3.dist-info/RECORD
+2018-02-27 13:33:03,304 [ 170658]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 120 ms 
+2018-02-27 13:33:03,305 [ 170659]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python36.zip 
+2018-02-27 13:33:03,308 [ 170662]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /home/robuntu/.PyCharm2017.3/system/python_stubs/-1247971763 
+2018-02-27 13:33:03,308 [ 170662]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6 (/usr/bin/python3.6)): /opt/PyCharm/helpers/python-skeletons 
+2018-02-27 13:33:03,339 [ 170693]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py list 
+2018-02-27 13:33:03,342 [ 170696]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py list 
+2018-02-27 13:33:13,383 [ 180737]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-02-27 13:33:13,418 [ 180772]   INFO - python.packaging.PyPackageUtil - Refreshing installed packages for SDK /usr/bin/python3.6 
+2018-02-27 13:33:13,424 [ 180778]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py list 
+2018-02-27 13:33:13,424 [ 180778]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for /usr/bin/python3.6 
+2018-02-27 13:33:14,548 [ 181902]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 1053 ms 
+2018-02-27 13:33:14,587 [ 181941]   INFO - tPregeneratedSkeletonsProvider - Home path is /opt/PyCharm 
+2018-02-27 13:33:20,878 [ 188232]   INFO - .skeletons.PySkeletonGenerator - Rebuilding builtin skeletons took 6279 ms 
+2018-02-27 13:33:20,912 [ 188266]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _asyncio 
+2018-02-27 13:33:22,318 [ 189672]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _bz2 
+2018-02-27 13:33:22,634 [ 189988]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _cffi_backend 
+2018-02-27 13:33:22,964 [ 190318]   INFO - .skeletons.PySkeletonGenerator - Skeleton for _cffi_backend failed on /usr/bin/python3.6. stderr: --
+Failed to process '_cffi_backend' while nothing yet: No module named '_cffi_backend'
+-- 
+2018-02-27 13:33:22,965 [ 190319]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_cn 
+2018-02-27 13:33:23,303 [ 190657]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_hk 
+2018-02-27 13:33:23,702 [ 191056]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_iso2022 
+2018-02-27 13:33:24,027 [ 191381]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_jp 
+2018-02-27 13:33:24,386 [ 191740]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_kr 
+2018-02-27 13:33:24,718 [ 192072]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _codecs_tw 
+2018-02-27 13:33:25,058 [ 192412]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _crypt 
+2018-02-27 13:33:25,412 [ 192766]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _csv 
+2018-02-27 13:33:25,767 [ 193121]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ctypes 
+2018-02-27 13:33:26,198 [ 193552]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ctypes_test 
+2018-02-27 13:33:26,602 [ 193956]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _curses 
+2018-02-27 13:33:27,038 [ 194392]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _curses_panel 
+2018-02-27 13:33:27,362 [ 194716]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _dbm 
+2018-02-27 13:33:27,661 [ 195015]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _dbus_bindings 
+2018-02-27 13:33:27,972 [ 195326]   INFO - .skeletons.PySkeletonGenerator - Skeleton for _dbus_bindings failed on /usr/bin/python3.6. stderr: --
+Failed to process '_dbus_bindings' while nothing yet: No module named '_dbus_bindings'
+-- 
+2018-02-27 13:33:27,973 [ 195327]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _dbus_glib_bindings 
+2018-02-27 13:33:28,299 [ 195653]   INFO - .skeletons.PySkeletonGenerator - Skeleton for _dbus_glib_bindings failed on /usr/bin/python3.6. stderr: --
+Failed to process '_dbus_glib_bindings' while nothing yet: No module named '_dbus_glib_bindings'
+-- 
+2018-02-27 13:33:28,299 [ 195653]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _decimal 
+2018-02-27 13:33:28,763 [ 196117]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _hashlib 
+2018-02-27 13:33:29,114 [ 196468]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _json 
+2018-02-27 13:33:29,517 [ 196871]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _lsprof 
+2018-02-27 13:33:29,911 [ 197265]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _lzma 
+2018-02-27 13:33:30,268 [ 197622]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _multibytecodec 
+2018-02-27 13:33:30,632 [ 197986]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _multiprocessing 
+2018-02-27 13:33:30,938 [ 198292]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _opcode 
+2018-02-27 13:33:31,235 [ 198589]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _sqlite3 
+2018-02-27 13:33:31,910 [ 199264]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ssl 
+2018-02-27 13:33:32,513 [ 199867]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testbuffer 
+2018-02-27 13:33:32,869 [ 200223]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testcapi 
+2018-02-27 13:33:33,264 [ 200618]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testimportmultiple 
+2018-02-27 13:33:33,600 [ 200954]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testmultiphase 
+2018-02-27 13:33:33,966 [ 201320]   INFO - .skeletons.PySkeletonRefresher - Skeleton for apt_inst 
+2018-02-27 13:33:34,291 [ 201645]   INFO - .skeletons.PySkeletonGenerator - Skeleton for apt_inst failed on /usr/bin/python3.6. stderr: --
+Failed to process 'apt_inst' while nothing yet: No module named 'apt_inst'
+-- 
+2018-02-27 13:33:34,293 [ 201647]   INFO - .skeletons.PySkeletonRefresher - Skeleton for apt_pkg 
+2018-02-27 13:33:34,614 [ 201968]   INFO - .skeletons.PySkeletonGenerator - Skeleton for apt_pkg failed on /usr/bin/python3.6. stderr: --
+Failed to process 'apt_pkg' while nothing yet: No module named 'apt_pkg'
+-- 
+2018-02-27 13:33:34,614 [ 201968]   INFO - .skeletons.PySkeletonRefresher - Skeleton for audioop 
+2018-02-27 13:33:34,980 [ 202334]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cairo._cairo 
+2018-02-27 13:33:35,327 [ 202681]   INFO - .skeletons.PySkeletonGenerator - Skeleton for cairo._cairo failed on /usr/bin/python3.6. stderr: --
+Failed to process 'cairo._cairo' while nothing yet: No module named 'cairo._cairo'
+-- 
+2018-02-27 13:33:35,327 [ 202681]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cmath 
+2018-02-27 13:33:35,683 [ 203037]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cryptography.hazmat.bindings._constant_time 
+2018-02-27 13:33:36,064 [ 203418]   INFO - .skeletons.PySkeletonGenerator - Skeleton for cryptography.hazmat.bindings._constant_time failed on /usr/bin/python3.6. stderr: --
+Failed to process 'cryptography.hazmat.bindings._constant_time' while nothing yet: No module named 'cryptography.hazmat.bindings._constant_time'
+-- 
+2018-02-27 13:33:36,065 [ 203419]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cryptography.hazmat.bindings._openssl 
+2018-02-27 13:33:36,419 [ 203773]   INFO - .skeletons.PySkeletonGenerator - Skeleton for cryptography.hazmat.bindings._openssl failed on /usr/bin/python3.6. stderr: --
+Failed to process 'cryptography.hazmat.bindings._openssl' while nothing yet: No module named 'cryptography.hazmat.bindings._openssl'
+-- 
+2018-02-27 13:33:36,419 [ 203773]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cryptography.hazmat.bindings._padding 
+2018-02-27 13:33:36,761 [ 204115]   INFO - .skeletons.PySkeletonGenerator - Skeleton for cryptography.hazmat.bindings._padding failed on /usr/bin/python3.6. stderr: --
+Failed to process 'cryptography.hazmat.bindings._padding' while nothing yet: No module named 'cryptography.hazmat.bindings._padding'
+-- 
+2018-02-27 13:33:36,761 [ 204115]   INFO - .skeletons.PySkeletonRefresher - Skeleton for fpectl 
+2018-02-27 13:33:37,101 [ 204455]   INFO - .skeletons.PySkeletonRefresher - Skeleton for gi._gi 
+2018-02-27 13:33:37,464 [ 204818]   INFO - .skeletons.PySkeletonGenerator - Skeleton for gi._gi failed on /usr/bin/python3.6. stderr: --
+Failed to process 'gi._gi' while nothing yet: cannot import name '_gi'
+-- 
+2018-02-27 13:33:37,464 [ 204818]   INFO - .skeletons.PySkeletonRefresher - Skeleton for gi._gi_cairo 
+2018-02-27 13:33:37,796 [ 205150]   INFO - .skeletons.PySkeletonGenerator - Skeleton for gi._gi_cairo failed on /usr/bin/python3.6. stderr: --
+Failed to process 'gi._gi_cairo' while nothing yet: cannot import name '_gi'
+-- 
+2018-02-27 13:33:37,797 [ 205151]   INFO - .skeletons.PySkeletonRefresher - Skeleton for mmap 
+2018-02-27 13:33:38,158 [ 205512]   INFO - .skeletons.PySkeletonRefresher - Skeleton for nis 
+2018-02-27 13:33:38,541 [ 205895]   INFO - .skeletons.PySkeletonRefresher - Skeleton for ossaudiodev 
+2018-02-27 13:33:38,893 [ 206247]   INFO - .skeletons.PySkeletonRefresher - Skeleton for parser 
+2018-02-27 13:33:39,246 [ 206600]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pycurl 
+2018-02-27 13:33:39,547 [ 206901]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pycurl failed on /usr/bin/python3.6. stderr: --
+Failed to process 'pycurl' while nothing yet: No module named 'pycurl'
+-- 
+2018-02-27 13:33:39,547 [ 206901]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame._camera 
+2018-02-27 13:33:40,235 [ 207589]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame._freetype 
+2018-02-27 13:33:41,006 [ 208360]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.base 
+2018-02-27 13:33:41,749 [ 209103]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.bufferproxy 
+2018-02-27 13:33:42,417 [ 209771]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.cdrom 
+2018-02-27 13:33:43,147 [ 210501]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.color 
+2018-02-27 13:33:43,965 [ 211319]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.constants 
+2018-02-27 13:33:44,629 [ 211983]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.display 
+2018-02-27 13:33:45,407 [ 212761]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.draw 
+2018-02-27 13:33:46,162 [ 213516]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.event 
+2018-02-27 13:33:46,903 [ 214257]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.fastevent 
+2018-02-27 13:33:47,617 [ 214971]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.font 
+2018-02-27 13:33:48,476 [ 215830]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.gfxdraw 
+2018-02-27 13:33:49,335 [ 216689]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.image 
+2018-02-27 13:33:50,006 [ 217360]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.imageext 
+2018-02-27 13:33:50,664 [ 218018]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.joystick 
+2018-02-27 13:33:51,396 [ 218750]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.key 
+2018-02-27 13:33:52,133 [ 219487]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.mask 
+2018-02-27 13:33:52,991 [ 220345]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.math 
+2018-02-27 13:33:53,883 [ 221237]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.mixer 
+2018-02-27 13:33:54,684 [ 222038]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.mixer_music 
+2018-02-27 13:33:55,408 [ 222762]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.mouse 
+2018-02-27 13:33:56,072 [ 223426]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.newbuffer 
+2018-02-27 13:33:56,692 [ 224046]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.overlay 
+2018-02-27 13:33:57,358 [ 224712]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.pixelarray 
+2018-02-27 13:33:58,080 [ 225434]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.pixelcopy 
+2018-02-27 13:33:58,718 [ 226072]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.pypm 
+2018-02-27 13:33:59,441 [ 226795]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.rect 
+2018-02-27 13:34:00,167 [ 227521]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.rwobject 
+2018-02-27 13:34:00,858 [ 228212]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.scrap 
+2018-02-27 13:34:01,539 [ 228893]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.surface 
+2018-02-27 13:34:02,460 [ 229814]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.surflock 
+2018-02-27 13:34:03,105 [ 230459]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.time 
+2018-02-27 13:34:03,784 [ 231138]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pygame.transform 
+2018-02-27 13:34:04,518 [ 231872]   INFO - .skeletons.PySkeletonRefresher - Skeleton for readline 
+2018-02-27 13:34:04,976 [ 232330]   INFO - .skeletons.PySkeletonRefresher - Skeleton for resource 
+2018-02-27 13:34:05,328 [ 232682]   INFO - .skeletons.PySkeletonRefresher - Skeleton for systemd._daemon 
+2018-02-27 13:34:05,668 [ 233022]   INFO - .skeletons.PySkeletonGenerator - Skeleton for systemd._daemon failed on /usr/bin/python3.6. stderr: --
+Failed to process 'systemd._daemon' while nothing yet: No module named 'systemd._daemon'
+-- 
+2018-02-27 13:34:05,669 [ 233023]   INFO - .skeletons.PySkeletonRefresher - Skeleton for systemd._journal 
+2018-02-27 13:34:05,981 [ 233335]   INFO - .skeletons.PySkeletonGenerator - Skeleton for systemd._journal failed on /usr/bin/python3.6. stderr: --
+Failed to process 'systemd._journal' while nothing yet: No module named 'systemd._journal'
+-- 
+2018-02-27 13:34:05,982 [ 233336]   INFO - .skeletons.PySkeletonRefresher - Skeleton for systemd._reader 
+2018-02-27 13:34:06,289 [ 233643]   INFO - .skeletons.PySkeletonGenerator - Skeleton for systemd._reader failed on /usr/bin/python3.6. stderr: --
+Failed to process 'systemd._reader' while nothing yet: No module named 'systemd._reader'
+-- 
+2018-02-27 13:34:06,290 [ 233644]   INFO - .skeletons.PySkeletonRefresher - Skeleton for systemd.id128 
+2018-02-27 13:34:06,590 [ 233944]   INFO - .skeletons.PySkeletonGenerator - Skeleton for systemd.id128 failed on /usr/bin/python3.6. stderr: --
+Failed to process 'systemd.id128' while nothing yet: No module named 'systemd.id128'
+-- 
+2018-02-27 13:34:06,590 [ 233944]   INFO - .skeletons.PySkeletonRefresher - Skeleton for systemd.login 
+2018-02-27 13:34:06,911 [ 234265]   INFO - .skeletons.PySkeletonGenerator - Skeleton for systemd.login failed on /usr/bin/python3.6. stderr: --
+Failed to process 'systemd.login' while nothing yet: No module named 'systemd.login'
+-- 
+2018-02-27 13:34:06,912 [ 234266]   INFO - .skeletons.PySkeletonRefresher - Skeleton for termios 
+2018-02-27 13:34:07,262 [ 234616]   INFO - .skeletons.PySkeletonRefresher - Skeleton for xapian._xapian 
+2018-02-27 13:34:07,666 [ 235020]   INFO - .skeletons.PySkeletonGenerator - Skeleton for xapian._xapian failed on /usr/bin/python3.6. stderr: --
+Failed to process 'xapian._xapian' while nothing yet: No module named '_xapian'
+-- 
+2018-02-27 13:34:07,667 [ 235021]   INFO - .skeletons.PySkeletonRefresher - Skeleton for xxlimited 
+2018-02-27 13:34:08,020 [ 235374]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 47109 ms 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - Some skeletons failed to generate 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - 18 modules failed in 1 interpreter. <a href="#">Details...</a> 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - Failed modules 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - _cffi_backend 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - _dbus_bindings 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - _dbus_glib_bindings 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - apt_inst 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - apt_pkg 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - cairo._cairo 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - cryptography.hazmat.bindings._constant_time 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - cryptography.hazmat.bindings._openssl 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - cryptography.hazmat.bindings._padding 
+2018-02-27 13:34:08,060 [ 235414]   WARN - .skeletons.PySkeletonRefresher - gi._gi 
+2018-02-27 13:34:08,061 [ 235415]   WARN - .skeletons.PySkeletonRefresher - gi._gi_cairo 
+2018-02-27 13:34:08,061 [ 235415]   WARN - .skeletons.PySkeletonRefresher - pycurl 
+2018-02-27 13:34:08,061 [ 235415]   WARN - .skeletons.PySkeletonRefresher - systemd._daemon 
+2018-02-27 13:34:08,061 [ 235415]   WARN - .skeletons.PySkeletonRefresher - systemd._journal 
+2018-02-27 13:34:08,061 [ 235415]   WARN - .skeletons.PySkeletonRefresher - systemd._reader 
+2018-02-27 13:34:08,061 [ 235415]   WARN - .skeletons.PySkeletonRefresher - systemd.id128 
+2018-02-27 13:34:08,061 [ 235415]   WARN - .skeletons.PySkeletonRefresher - systemd.login 
+2018-02-27 13:34:08,061 [ 235415]   WARN - .skeletons.PySkeletonRefresher - xapian._xapian 
+2018-02-27 13:34:08,061 [ 235415]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6 (/usr/bin/python3.6) 
+2018-02-27 13:34:08,061 [ 235415]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.6 /opt/PyCharm/helpers/packaging_tool.py list 
+2018-02-27 13:34:13,275 [ 240629]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-02-27 13:34:13,276 [ 240630]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-02-27 13:34:13,277 [ 240631]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-02-27 13:34:13,605 [ 240959]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-02-27 13:34:13,611 [ 240965]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-02-27 13:34:13,620 [ 240974]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2018-02-27 13:34:13,636 [ 240990]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-02-27 13:34:13,724 [ 241078]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-02-27 13:34:13,733 [ 241087]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-02-27 13:34:13,756 [ 241110]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-02-27 13:34:13,774 [ 241128]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-02-27 13:34:13,848 [ 241202]   INFO - lij.openapi.util.io.FileUtilRt -  
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor12.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.openapi.util.io.FileUtilRt.deleteRecursivelyNIO(FileUtilRt.java:730)
+	at com.intellij.openapi.util.io.FileUtilRt.delete(FileUtilRt.java:707)
+	at com.intellij.openapi.util.io.FileUtilRt$FilesToDeleteHolder$1.run(FileUtilRt.java:353)
+Caused by: com.intellij.openapi.util.io.FileUtilRt$NIOReflect$1$2: Failed to delete /tmp/pycharm-packaging1/Pygame/pygame-1.9.3.dist-info/RECORD

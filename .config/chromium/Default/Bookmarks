@@ -1,0 +1,66 @@
+{
+   "checksum": "ca4f9c9355b46cdfc0161f79aa090e5d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13164230709886550",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13164230709888290"
+            },
+            "name": "Java 8 API",
+            "type": "url",
+            "url": "https://docs.oracle.com/javase/8/docs/api/"
+         }, {
+            "date_added": "13164230730983880",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13164230730988359"
+            },
+            "name": "Python3 API",
+            "type": "url",
+            "url": "https://docs.python.org/3/c-api/index.html"
+         }, {
+            "date_added": "13164230660655484",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13164230660659371"
+            },
+            "name": "Processing Reference",
+            "type": "url",
+            "url": "https://processing.org/reference/"
+         }, {
+            "date_added": "13164230691059772",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13164230691064003"
+            },
+            "name": "PyProcessing Reference",
+            "type": "url",
+            "url": "http://py.processing.org/reference/"
+         } ],
+         "date_added": "13164230624786361",
+         "date_modified": "13164230747958817",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13164230624786380",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13164230624786382",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

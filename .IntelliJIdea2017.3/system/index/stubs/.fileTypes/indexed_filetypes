@@ -1,0 +1,32 @@
+1519756547653
+Kotlin￿stub:org.jetbrains.kotlin.psi.stubs.elements.KtFileElementType,125￿1519756547652
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,28￿1519756547651
+CSS￿stub:com.intellij.psi.css.CssFileElementType,28￿1519756547650
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518631￿1519756547649
+SWF￿binary stub builder:com.intellij.javascript.flex.compiled.SwfFileStubBuilder,-1152518628￿1519756547648
+Markdown￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1519756547647
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518631￿1519756547646
+Groovy￿stub:org.jetbrains.plugins.groovy.lang.psi.stubs.elements.GrStubFileElementType,38￿1519756547645
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,346275910￿1519756547644
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518631￿1519756547643
+KJSM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,-1395756094￿1519756547642
+CLASS￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,-1395756094￿1519756547641
+Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1519756547640
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,28￿1519756547639
+CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518631￿1519756547638
+HTML￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1519756547637
+JSP￿stub:com.intellij.lang.jsp.NewJspParserDefinition$1,6￿1519756547636
+spring.factories￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1519756547635
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518631￿1519756547634
+SQL￿stub:com.intellij.sql.psi.stubs.SqlFileElementType,11￿1519756547633
+JAVA￿stub:com.intellij.psi.impl.source.JavaFileElementType,41￿1519756547632
+CFML￿stub:com.intellij.coldFusion.model.psi.stubs.CfmlFileElementType,35￿1519756547631
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,28￿1519756547630
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518631￿1519756547629
+AspectJ￿stub:com.intellij.lang.aspectj.psi.stub.AjFileElementType,53￿1519756547628
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518631￿1519756547627
+Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,28￿1519756547626
+Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518631￿1519756547625
+kotlin_builtins￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,-1395756094￿1519756547624
+FTL￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1519756547623
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518631￿1519756547622

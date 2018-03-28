@@ -1,0 +1,19 @@
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":1"
+      after 93 requests (91 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":2"
+      after 36 requests (34 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":2"
+      after 34 requests (32 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":2"
+      after 30 requests (28 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":1"
+      after 34 requests (32 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":1"
+      after 35 requests (33 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":1"
+      after 57 requests (55 known processed) with 0 events remaining.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":1"
+      after 25 requests (23 known processed) with 0 events remaining.
+xsel: BadWindow (invalid Window parameter): Resource temporarily unavailable
+xsel: BadWindow (invalid Window parameter): Resource temporarily unavailable
+xsel: BadWindow (invalid Window parameter): Resource temporarily unavailable
