@@ -152,3 +152,5 @@ test-mode start
 test-mode stop
 test-mode start
 test-mode stop
+test-mode start
+test-mode stop
