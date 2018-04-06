@@ -19,6 +19,8 @@
     <location key="Vcs.Push.Dialog.0.0.1366.768" x="362" y="94" />
     <location key="VCS.ChangeListViewerDialog.0.0.1366.768" x="413" y="73" />
     <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.1366.768" x="328" y="262" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="267" y="0" />
+    <location key="#Plugins.0.0.1366.768" x="281" y="0" />
     <size key="FileChooserDialogImpl.0.0.1366.768" width="430" height="497" />
     <size key="SettingsEditor.0.0.1366.768" width="1030" height="737" />
     <size key="new project wizard.0.0.1366.768" width="873" height="737" />
@@ -39,5 +41,7 @@
     <size key="Vcs.Push.Dialog.0.0.1366.768" width="641" height="554" />
     <size key="VCS.ChangeListViewerDialog.0.0.1366.768" width="536" height="596" />
     <size key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.1366.768" width="706" height="218" />
+    <size key="#Browse_Repositories.0.0.1366.768" width="830" height="697" />
+    <size key="#Plugins.0.0.1366.768" width="806" height="690" />
   </component>
 </application>

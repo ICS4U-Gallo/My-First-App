@@ -1,31 +1,9 @@
-[CLIENT] 0x3600001
+[CLIENT] 0x3400001
   [RES_NAME] chromium-browser
   [RES_CLASS] Chromium-browser
-  [WM_NAME] Live Hack: LibraryApp - Chromium
-  [GEOMETRY] (3,57,1366,708)
-  [GEOMETRY-MAXIMIZED] (3,57,1366,708)
-  [SCREEN] 0
-  [DESK] 0
-  [FLAGS] 0x10000
-[CLIENT] 0x2e00084
-  [CLIENT_LEADER] 0x2e00001
-  [WINDOW_ROLE] gedit-window-1521824147-123896-0-localhost
-  [RES_NAME] gedit
-  [RES_CLASS] Gedit
-  [WM_NAME] webAddressesArray.java (~/tsang/pbd-solutions/164) - gedit
-  [WM_COMMAND] (1) "gedit"
-  [GEOMETRY] (545,141,807,575)
-  [GEOMETRY-MAXIMIZED] (545,141,807,575)
-  [SCREEN] 0
-  [DESK] 0
-  [FLAGS] 0x10000
-[CLIENT] 0x3e00eb3
-  [CLIENT_LEADER] 0x3e00008
-  [RES_NAME] sun-awt-X11-XFramePeer
-  [RES_CLASS] jetbrains-idea
-  [WM_NAME] LibraryAppTemplate-master [~/IdeaProjects/libraryApp/LibraryAppTemplate-master] - .../src/Address.java [LibraryApp] - IntelliJ IDEA
+  [WM_NAME] www.google.ca - Chromium
   [GEOMETRY] (0,29,1366,708)
-  [GEOMETRY-MAXIMIZED] (77,69,1049,600)
+  [GEOMETRY-MAXIMIZED] (3,29,1366,708)
   [SCREEN] 0
   [DESK] 0
   [FLAGS] 0x10300

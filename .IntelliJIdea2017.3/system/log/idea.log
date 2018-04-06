@@ -6039,3 +6039,136 @@ Elapsed time on auto-detect: 0 ms
 2018-03-23 13:11:59,381 [3522882]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
 2018-03-23 13:11:59,381 [3522882]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
 2018-03-23 13:11:59,381 [3522882]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2018-04-06 12:20:13,993 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-04-06 12:20:14,034 [     41]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-04-06 12:20:14,034 [     41]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.1666666 (IDE-managed HiDPI) 
+2018-04-06 12:20:14,070 [     77]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-173.4548.28, 29 Jan 2018 17:14) 
+2018-04-06 12:20:14,070 [     77]   INFO -        #com.intellij.idea.Main - OS: Linux (4.4.111-12565-g3574f116f40f-dirty, amd64) 
+2018-04-06 12:20:14,071 [     78]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_161-b12 (Oracle Corporation) 
+2018-04-06 12:20:14,071 [     78]   INFO -        #com.intellij.idea.Main - JVM: 25.161-b12 (Java HotSpot(TM) 64-Bit Server VM) 
+2018-04-06 12:20:14,088 [     95]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:/opt/IntelliJ/lib/boot.jar -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/robuntu/java_error_in_IDEA_%p.log -XX:HeapDumpPath=/home/robuntu/java_error_in_IDEA.hprof -Didea.paths.selector=IntelliJIdea2017.3 -Djb.vmOptionsFile=/opt/IntelliJ/bin/idea64.vmoptions -Didea.jre.check=true 
+2018-04-06 12:20:14,097 [    104]   INFO -        #com.intellij.idea.Main - ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@658c9e79[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0] 
+2018-04-06 12:20:14,097 [    104]   INFO -        #com.intellij.idea.Main - ext: /usr/lib/jvm/java-8-oracle/jre/lib/ext: [sunjce_provider.jar, jaccess.jar, localedata.jar, sunpkcs11.jar, jfxrt.jar, nashorn.jar, sunec.jar, zipfs.jar, dnsns.jar, cldrdata.jar, meta-index] 
+2018-04-06 12:20:14,097 [    104]   INFO -        #com.intellij.idea.Main - JNU charset: ANSI_X3.4-1968 
+2018-04-06 12:20:14,142 [    149]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 44 ms 
+2018-04-06 12:20:16,625 [   2632]   INFO - .intellij.idea.IdeaApplication - WM detected: Xfwm4 
+2018-04-06 12:20:21,296 [   7303]   INFO - llij.ide.plugins.PluginManager - 130 plugins initialized in 3880 ms 
+2018-04-06 12:20:21,301 [   7308]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (0.1), Android Support (10.2.3), AngularJS (173.4548.28), Ant Support (1.0), Application Servers View (0.2.0), AspectJ Support (1.2), Bytecode Viewer (0.1), CFML Support (3.53), CSS Support (173.4548.28), CVS Integration (11), Cloud Foundry integration (1.0), CloudBees integration (1.0), CoffeeScript (2.0), Copyright (8.1), Coverage (173.4548.28), Cucumber for Groovy (999.999), Cucumber for Java (999.999), DSM Analysis (1.0.0), Database Tools and SQL (173.4548.28), Eclipse Integration (3.0), EditorConfig (173.4548.28), Emma (173.4548.28), Flash/Flex Support (173.4548.28), FreeMarker support (1.0), GWT Support (1.0), Geronimo Integration (1.0), Gherkin (999.999), Git Integration (8.1), GitHub (173.4548.28), GlassFish Integration (1.0), Google App Engine Integration (1.1.4), Gradle (173.4548.28), Grails (9.0), Groovy (9.0), Guice (8.0), HTML Tools (2.0), Haml (173.4548.28), Heroku integration (173.4548.28), Hibernate Support (1.0), I18n for Java (173.4548.28), IDE Settings Sync (173.4548.28), IDEA CORE (173.4548.28), IntelliLang (8.0), J2ME (1.0), JBoss Arquillian Support (1.0), JBoss Drools Support (1.0), JBoss Frameworks Base Support (1.0), JBoss Integration (1.0), JBoss Seam Pageflow Support (1.0), JBoss Seam Pages Support (1.0), JBoss Seam Support (1.0), JBoss jBPM (2.0.0), JSR45 Integration (1.0), JUnit (1.0), Java Bytecode Decompiler (173.4548.28), Java EE: Batch Applications (1.0), Java EE: Bean Validation Support (1.1), Java EE: Contexts and Dependency Injection (1.1), Java EE: EJB, JPA, Servlets (1.0), Java EE: JMS, JSON Processing, Concurrency, Transaction  (1.0), Java EE: Java Server Faces (2.2.X.), Java EE: RESTful Web Services (JAX-RS) (1.0), Java EE: Web Services (JAX-WS) (1.9), Java EE: WebSockets (1.0), Java Server Pages (JSP) Integration (1.0), Java Stream Debugger (173.4548.28), JavaFX (1.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Jetty Integration (1.0), Kotlin (1.2.10-release-IJ2017.3-1), Less support (173.4548.28), Markdown support (173.4548.28), Maven Integration (173.4548.28), Maven Integration Extension (173.4548.28), Mercurial Integration (10.0), OpenShift integration (1.0), Osmorc (1.4.11), Perforce Integration (2.0), Persistence Frameworks Support (1.0), Playframework Support (1.0), Plugin DevKit (1.0), Properties Support (173.4548.28), QuirksMode (173.4548.28), REST Client (173.4548.28), Refactor-X (2.01), Remote Hosts Access (0.1), Resin Integration (8.1), SSH Remote Run (0.1), Sass support (173.4548.28), Settings Repository (173.4548.28), Spring AOP/@AspectJ (1.0), Spring Batch (1.0), Spring Boot (1.0), Spring Data (1.0), Spring Integration Patterns (1.0), Spring MVC (1.0), Spring OSGi (1.0), Spring Security (1.0), Spring Support (1.0), Spring Web Flow (1.0), Spring Web Services (1.0), Spring WebSocket (1.0), Spy-js (173.4548.28), Struts 1.x (2.0), Struts 2 (1.0), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Tapestry support (1.0), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), Thymeleaf (1.0), Time Tracking (1.0), Tomcat and TomEE Integration (1.0), UI Designer (173.4548.28), UML Support (1.0), Vaadin Support (1.0), Velocity support (1.0), W3C Validators (2.0), WebLogic Integration (1.0), WebSphere Integration (1.0), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (173.4548.28), ZKM-Unscramble (1.0), dmServer Support (0.9.5), tslint (173.4548.28) 
+2018-04-06 12:20:25,584 [  11591]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2018-04-06 12:20:25,848 [  11855]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=713 
+2018-04-06 12:20:26,046 [  12053]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/IntelliJ/bin/fsnotifier64 
+2018-04-06 12:20:26,071 [  12078]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-04-06 12:20:30,430 [  16437]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-04-06 12:20:30,458 [  16465]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@5a9da1a8 
+2018-04-06 12:20:30,839 [  16846]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-04-06 12:20:31,014 [  17021]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-04-06 12:20:32,507 [  18514]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:1201 
+2018-04-06 12:20:32,531 [  18538]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:23 
+2018-04-06 12:20:32,921 [  18928]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:350 
+2018-04-06 12:20:32,923 [  18930]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:1 
+2018-04-06 12:20:34,884 [  20891]   INFO - plication.impl.ApplicationImpl - 98 application components initialized in 17490ms 
+2018-04-06 12:20:35,040 [  21047]   INFO - .intellij.idea.IdeaApplication - App initialization took 23817 ms 
+2018-04-06 12:20:39,585 [  25592]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=14, fontScale=1.1666666 
+2018-04-06 12:20:39,640 [  25647]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.1666666; restored: fontSize=14, fontScale=1.1666666 
+2018-04-06 12:20:42,938 [  28945]   INFO - pl$FileIndexDataInitialization - Initialization done:10407 
+2018-04-06 12:20:44,069 [  30076]   INFO - exImpl$StubIndexInitialization - Initialization done:1130 
+2018-04-06 12:20:44,234 [  30241]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2018-04-06 12:20:44,698 [  30705]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-04-06 12:20:45,794 [  31801]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-04-06 12:20:46,002 [  32009]   INFO - ellij.project.impl.ProjectImpl - 20 project components initialized in 2222 ms 
+2018-04-06 12:20:46,211 [  32218]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-04-06 12:20:46,526 [  32533]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-04-06 12:20:46,817 [  32824]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@521aed9d 
+2018-04-06 12:20:46,865 [  32872]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-04-06 12:20:47,463 [  33470]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-04-06 12:20:47,694 [  33701]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-04-06 12:20:48,639 [  34646]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-04-06 12:20:48,956 [  34963]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-04-06 12:20:49,171 [  35178]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-04-06 12:20:49,271 [  35278]   INFO - j.ide.ui.OptionsTopHitProvider - 6566 ms spent to cache options in application 
+2018-04-06 12:20:49,915 [  35922]   WARN - dea.updater.SdkComponentSource - File /home/robuntu/.android/repositories.cfg could not be loaded. 
+2018-04-06 12:20:56,144 [  42151]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@13aca9c0 
+2018-04-06 12:20:57,607 [  43614]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@18dd0c6f 
+2018-04-06 12:22:00,615 [ 106622]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-04-06 12:22:00,617 [ 106624]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-04-06 12:22:00,618 [ 106625]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-04-06 12:22:01,533 [ 107540]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-04-06 12:22:01,539 [ 107546]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-04-06 12:22:01,556 [ 107563]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2018-04-06 12:22:01,611 [ 107618]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-04-06 12:22:01,712 [ 107719]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-04-06 12:22:01,738 [ 107745]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-04-06 12:22:01,744 [ 107751]   INFO -   #com.intellij.util.Restarter - restart: [] 
+2018-04-06 12:22:01,754 [ 107761]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-04-06 12:22:01,775 [ 107782]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-04-06 12:22:06,312 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-04-06 12:22:06,330 [     18]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-04-06 12:22:06,330 [     18]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.1666666 (IDE-managed HiDPI) 
+2018-04-06 12:22:06,352 [     40]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-173.4548.28, 29 Jan 2018 17:06) 
+2018-04-06 12:22:06,352 [     40]   INFO -        #com.intellij.idea.Main - OS: Linux (4.4.111-12565-g3574f116f40f-dirty, amd64) 
+2018-04-06 12:22:06,352 [     40]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_161-b12 (Oracle Corporation) 
+2018-04-06 12:22:06,352 [     40]   INFO -        #com.intellij.idea.Main - JVM: 25.161-b12 (Java HotSpot(TM) 64-Bit Server VM) 
+2018-04-06 12:22:06,356 [     44]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:/opt/IntelliJ/lib/boot.jar -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/robuntu/java_error_in_IDEA_%p.log -XX:HeapDumpPath=/home/robuntu/java_error_in_IDEA.hprof -Didea.paths.selector=IntelliJIdea2017.3 -Djb.vmOptionsFile=/opt/IntelliJ/bin/idea64.vmoptions -Didea.jre.check=true 
+2018-04-06 12:22:06,360 [     48]   INFO -        #com.intellij.idea.Main - ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@13073c41[Running, parallelism = 1, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0] 
+2018-04-06 12:22:06,361 [     49]   INFO -        #com.intellij.idea.Main - ext: /usr/lib/jvm/java-8-oracle/jre/lib/ext: [sunjce_provider.jar, jaccess.jar, localedata.jar, sunpkcs11.jar, jfxrt.jar, nashorn.jar, sunec.jar, zipfs.jar, dnsns.jar, cldrdata.jar, meta-index] 
+2018-04-06 12:22:06,361 [     49]   INFO -        #com.intellij.idea.Main - JNU charset: ANSI_X3.4-1968 
+2018-04-06 12:22:06,396 [     84]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 34 ms 
+2018-04-06 12:22:08,282 [   1970]   INFO - .intellij.idea.IdeaApplication - WM detected: Xfwm4 
+2018-04-06 12:22:11,838 [   5526]   INFO - llij.ide.plugins.PluginManager - 131 plugins initialized in 2952 ms 
+2018-04-06 12:22:11,844 [   5532]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (0.1), Android Support (10.2.3), AngularJS (173.4548.28), Ant Support (1.0), Application Servers View (0.2.0), AspectJ Support (1.2), Bytecode Viewer (0.1), CFML Support (3.53), CSS Support (173.4548.28), CVS Integration (11), Cloud Foundry integration (1.0), CloudBees integration (1.0), CoffeeScript (2.0), Copyright (8.1), Coverage (173.4548.28), Cucumber for Groovy (999.999), Cucumber for Java (999.999), DSM Analysis (1.0.0), Database Tools and SQL (173.4548.28), Eclipse Integration (3.0), EditorConfig (173.4548.28), Emma (173.4548.28), Flash/Flex Support (173.4548.28), FreeMarker support (1.0), GWT Support (1.0), Geronimo Integration (1.0), Gherkin (999.999), Git Integration (8.1), GitHub (173.4548.28), GlassFish Integration (1.0), Google App Engine Integration (1.1.4), Gradle (173.4548.28), Grails (9.0), Groovy (9.0), Guice (8.0), HTML Tools (2.0), Haml (173.4548.28), Heroku integration (173.4548.28), Hibernate Support (1.0), I18n for Java (173.4548.28), IDE Settings Sync (173.4548.28), IDEA CORE (173.4548.28), IntelliLang (8.0), J2ME (1.0), JBoss Arquillian Support (1.0), JBoss Drools Support (1.0), JBoss Frameworks Base Support (1.0), JBoss Integration (1.0), JBoss Seam Pageflow Support (1.0), JBoss Seam Pages Support (1.0), JBoss Seam Support (1.0), JBoss jBPM (2.0.0), JSR45 Integration (1.0), JUnit (1.0), Java Bytecode Decompiler (173.4548.28), Java EE: Batch Applications (1.0), Java EE: Bean Validation Support (1.1), Java EE: Contexts and Dependency Injection (1.1), Java EE: EJB, JPA, Servlets (1.0), Java EE: JMS, JSON Processing, Concurrency, Transaction  (1.0), Java EE: Java Server Faces (2.2.X.), Java EE: RESTful Web Services (JAX-RS) (1.0), Java EE: Web Services (JAX-WS) (1.9), Java EE: WebSockets (1.0), Java Server Pages (JSP) Integration (1.0), Java Stream Debugger (173.4548.28), JavaFX (1.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Jetty Integration (1.0), Kotlin (1.2.10-release-IJ2017.3-1), Less support (173.4548.28), Markdown support (173.4548.28), Maven Integration (173.4548.28), Maven Integration Extension (173.4548.28), Mercurial Integration (10.0), OpenShift integration (1.0), Osmorc (1.4.11), Perforce Integration (2.0), Persistence Frameworks Support (1.0), Playframework Support (1.0), Plugin DevKit (1.0), Properties Support (173.4548.28), QuirksMode (173.4548.28), REST Client (173.4548.28), Refactor-X (2.01), Remote Hosts Access (0.1), Resin Integration (8.1), SSH Remote Run (0.1), Sass support (173.4548.28), Settings Repository (173.4548.28), Spring AOP/@AspectJ (1.0), Spring Batch (1.0), Spring Boot (1.0), Spring Data (1.0), Spring Integration Patterns (1.0), Spring MVC (1.0), Spring OSGi (1.0), Spring Security (1.0), Spring Support (1.0), Spring Web Flow (1.0), Spring Web Services (1.0), Spring WebSocket (1.0), Spy-js (173.4548.28), Struts 1.x (2.0), Struts 2 (1.0), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Tapestry support (1.0), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), Thymeleaf (1.0), Time Tracking (1.0), Tomcat and TomEE Integration (1.0), UI Designer (173.4548.28), UML Support (1.0), Vaadin Support (1.0), Velocity support (1.0), W3C Validators (2.0), WebLogic Integration (1.0), WebSphere Integration (1.0), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (173.4548.28), ZKM-Unscramble (1.0), dmServer Support (0.9.5), tslint (173.4548.28) 
+2018-04-06 12:22:11,845 [   5533]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Scala (2017.3.15) 
+2018-04-06 12:22:14,695 [   8383]   INFO - cloudConfig.CloudConfigManager - === Exit: JBA_NOT_FOUND === 
+2018-04-06 12:22:14,892 [   8580]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=713 
+2018-04-06 12:22:15,052 [   8740]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /opt/IntelliJ/bin/fsnotifier64 
+2018-04-06 12:22:15,084 [   8772]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-04-06 12:22:19,940 [  13628]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-04-06 12:22:19,983 [  13671]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@4fe8dcc4 
+2018-04-06 12:22:20,297 [  13985]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-04-06 12:22:20,480 [  14168]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-04-06 12:22:21,464 [  15152]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:784 
+2018-04-06 12:22:21,513 [  15201]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:48 
+2018-04-06 12:22:21,727 [  15415]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index filetypes. The index will be rebuilt. 
+2018-04-06 12:22:21,902 [  15590]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:337 
+2018-04-06 12:22:21,909 [  15597]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:7 
+2018-04-06 12:22:23,749 [  17437]   INFO - plication.impl.ApplicationImpl - 106 application components initialized in 14875ms 
+2018-04-06 12:22:23,803 [  17491]   INFO - .intellij.idea.IdeaApplication - App initialization took 19156 ms 
+2018-04-06 12:22:24,886 [  18574]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index IdIndex. The index will be rebuilt. 
+2018-04-06 12:22:26,814 [  20502]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=14, fontScale=1.1666666 
+2018-04-06 12:22:26,828 [  20516]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=14, fontScale=1.1666666; restored: fontSize=14, fontScale=1.1666666 
+2018-04-06 12:22:30,734 [  24422]   INFO - ij.psi.stubs.StubUpdatingIndex - requesting complete stub index rebuild due to changes: added file types:Scala,sbt,Play2; 
+2018-04-06 12:22:30,735 [  24423]   INFO - il.indexing.FileBasedIndexImpl -  
+java.io.IOException
+	at com.intellij.psi.stubs.StubVersionMap.a(StubVersionMap.java:124)
+	at com.intellij.psi.stubs.StubVersionMap.<init>(StubVersionMap.java:66)
+	at com.intellij.psi.stubs.StubUpdatingIndex$MyIndex.<init>(StubUpdatingIndex.java:427)
+	at com.intellij.psi.stubs.StubUpdatingIndex.createIndexImplementation(StubUpdatingIndex.java:367)
+	at com.intellij.util.indexing.FileBasedIndexImpl.a(FileBasedIndexImpl.java:485)
+	at com.intellij.util.indexing.FileBasedIndexImpl.a(FileBasedIndexImpl.java:417)
+	at com.intellij.util.indexing.FileBasedIndexImpl.a(FileBasedIndexImpl.java:378)
+	at com.intellij.util.indexing.FileBasedIndexImpl.access$5200(FileBasedIndexImpl.java:117)
+	at com.intellij.util.indexing.FileBasedIndexImpl$FileIndexDataInitialization.a(FileBasedIndexImpl.java:2355)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.a(IndexInfrastructure.java:214)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.a(IndexInfrastructure.java:202)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.call(IndexInfrastructure.java:165)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$2.run(BoundedTaskExecutor.java:212)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2018-04-06 12:22:31,251 [  24939]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:CFML,spring.factories,Scala,Groovy,TypeScript JSX,XML,sbt,JavaScript,JAVA,Less,CSS,kotlin_builtins,CLASS,SQL,Stylus,ECMAScript 6,AspectJ,JSX Harmony,HTML,JSP,SWF,Markdown,SCSS,FTL,Kotlin,KJSM,Literate CoffeeScript,Properties,Play2,ActionScript,CoffeeScript,Sass,Flow,TypeScript 
+2018-04-06 12:22:31,811 [  25499]   INFO - j.ide.ui.OptionsTopHitProvider - 5937 ms spent to cache options in application 
+2018-04-06 12:22:31,829 [  25517]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index CssIndex. The index will be rebuilt. 
+2018-04-06 12:22:31,896 [  25584]   INFO - il.indexing.FileBasedIndexImpl - Version has changed for index css.template.selectors. The index will be rebuilt. 
+2018-04-06 12:22:32,828 [  26516]   INFO - pl$FileIndexDataInitialization - Initialization done:11326 
+2018-04-06 12:22:33,707 [  27395]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@3d14bec1 
+2018-04-06 12:22:34,141 [  27829]   INFO - exImpl$StubIndexInitialization - Initialization done:1312 
+2018-04-06 12:22:39,530 [  33218]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@5c9f8a91 
+2018-04-06 12:22:40,840 [  34528]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@653d97b1 
+2018-04-06 12:24:52,021 [ 165709]   INFO - ellij.project.impl.ProjectImpl - 22 project components initialized in 586 ms 
+2018-04-06 12:25:22,413 [ 196101]   INFO - j.compiler.server.BuildManager - Clearing project build data because the project does not exist or was not opened for more than 30 days: /home/robuntu/.IntelliJIdea2017.3/system/compile-server/tsangarray_b73c38e1 
+2018-04-06 12:25:22,497 [ 196185]   INFO - j.compiler.server.BuildManager - Clearing project build data because the project does not exist or was not opened for more than 30 days: /home/robuntu/.IntelliJIdea2017.3/system/compile-server/tsangsandbox_ffe8966f 
+2018-04-06 12:25:22,500 [ 196188]   INFO - j.compiler.server.BuildManager - Clearing project build data because the project does not exist or was not opened for more than 30 days: /home/robuntu/.IntelliJIdea2017.3/system/compile-server/cli-markbook_59089b26 
+2018-04-06 12:25:22,551 [ 196239]   INFO - j.compiler.server.BuildManager - Clearing project build data because the project does not exist or was not opened for more than 30 days: /home/robuntu/.IntelliJIdea2017.3/system/compile-server/pbd-solutions_823483c8 
+2018-04-06 12:25:22,552 [ 196240]   INFO - j.compiler.server.BuildManager - Clearing project build data because the project does not exist or was not opened for more than 30 days: /home/robuntu/.IntelliJIdea2017.3/system/compile-server/sandbox_2590d010 
+2018-04-06 12:25:22,588 [ 196276]   INFO - j.compiler.server.BuildManager - Clearing project build data because the project does not exist or was not opened for more than 30 days: /home/robuntu/.IntelliJIdea2017.3/system/compile-server/arrays_7da88b7d 
