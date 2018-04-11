@@ -1,12 +1,42 @@
+<<<<<<< HEAD
+# Ignore Play! working directory #
+bin/
+/db
+.eclipse
+/lib/
+/logs/
+/modules
+/project/project
+/project/target
+/target
+tmp/
+test-result
+server.pid
+*.eml
+/dist/
+.cache
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+.idea/
+
+# User-specific stuff:
+=======
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff
+>>>>>>> 58d60c52ab9d8d92faeab3c3ac1c5c6aa639aae0
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
 
+<<<<<<< HEAD
+# Sensitive or high-churn files:
+=======
 # Sensitive or high-churn files
+>>>>>>> 58d60c52ab9d8d92faeab3c3ac1c5c6aa639aae0
 .idea/**/dataSources/
 .idea/**/dataSources.ids
 .idea/**/dataSources.local.xml
@@ -14,7 +44,11 @@
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 
+<<<<<<< HEAD
+# Gradle:
+=======
 # Gradle
+>>>>>>> 58d60c52ab9d8d92faeab3c3ac1c5c6aa639aae0
 .idea/**/gradle.xml
 .idea/**/libraries
 
@@ -22,12 +56,23 @@
 cmake-build-debug/
 cmake-build-release/
 
+<<<<<<< HEAD
+# Mongo Explorer plugin:
+.idea/**/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+=======
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
 
 # File-based project format
 *.iws
 
+>>>>>>> 58d60c52ab9d8d92faeab3c3ac1c5c6aa639aae0
 # IntelliJ
 out/
 
