@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PlayTemplate
 
 ## Install sbt on our Chromebooks
@@ -162,3 +163,6 @@ $ git add -A
 $ git commit -m "Some descriptive commit message"
 $ git push heroku master
 ```
+=======
+# My-First-App
+>>>>>>> 58d60c52ab9d8d92faeab3c3ac1c5c6aa639aae0
