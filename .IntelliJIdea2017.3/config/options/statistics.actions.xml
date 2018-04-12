@@ -1,0 +1,59 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Cut" count="1" />
+      <entry action="$Delete" count="1" />
+      <entry action="$Paste" count="1" />
+      <entry action="$SelectAll" count="3" />
+      <entry action="$Undo" count="62" />
+      <entry action="ActivateProjectToolWindow" count="2" />
+      <entry action="Add  JUnit5.0  to classpath" count="1" />
+      <entry action="CheckinProject" count="7" />
+      <entry action="ChooseRunConfiguration" count="2" />
+      <entry action="CloseProject" count="3" />
+      <entry action="CommentByLineComment" count="3" />
+      <entry action="EditorBackSpace" count="1419" />
+      <entry action="EditorChooseLookupItem" count="17" />
+      <entry action="EditorCopy" count="11" />
+      <entry action="EditorCut" count="9" />
+      <entry action="EditorDown" count="46" />
+      <entry action="EditorDownWithSelection" count="2" />
+      <entry action="EditorEnter" count="168" />
+      <entry action="EditorLeft" count="235" />
+      <entry action="EditorLeftWithSelection" count="25" />
+      <entry action="EditorPaste" count="51" />
+      <entry action="EditorPasteFromX11" count="3" />
+      <entry action="EditorRight" count="406" />
+      <entry action="EditorRightWithSelection" count="21" />
+      <entry action="EditorSelectWord" count="1" />
+      <entry action="EditorStartNewLine" count="1" />
+      <entry action="EditorTab" count="21" />
+      <entry action="EditorUp" count="23" />
+      <entry action="ExpandRegion" count="1" />
+      <entry action="ExtractMethod" count="6" />
+      <entry action="FileChooser.NewFolder" count="1" />
+      <entry action="Find" count="1" />
+      <entry action="GenerateJavadoc" count="5" />
+      <entry action="GotoDeclaration" count="1" />
+      <entry action="HideAllWindows" count="2" />
+      <entry action="Images.ShowThumbnails" count="1" />
+      <entry action="NewClass" count="5" />
+      <entry action="NewDir" count="1" />
+      <entry action="NewModuleInGroup" count="2" />
+      <entry action="OpenFile" count="1" />
+      <entry action="PasteMultiple" count="1" />
+      <entry action="RefactoringMenuRenameFile" count="1" />
+      <entry action="Replace" count="1" />
+      <entry action="Rerun" count="1" />
+      <entry action="Run" count="40" />
+      <entry action="SaveAll" count="18" />
+      <entry action="SearchEverywhere" count="3" />
+      <entry action="ShowIntentionActions" count="1" />
+      <entry action="ShowProjectStructureSettings" count="1" />
+      <entry action="ShowSettings" count="1" />
+      <entry action="ToggleLineBreakpoint" count="4" />
+      <entry action="Vcs.Push" count="1" />
+      <entry action="Vcs.UpdateProject" count="4" />
+    </counts>
+  </component>
+</application>

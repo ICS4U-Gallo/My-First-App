@@ -1,0 +1,1123 @@
+2018-03-02 09:05:26,169 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 09:05:26,171 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 09:05:27,070 [    901]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 835 ms
+2018-03-02 09:05:27,567 [   1398]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 09:05:28,579 [   2410]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1013 ms
+2018-03-02 09:05:28,580 [   2411]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 09:05:28,895 [   2726]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 09:05:29,337 [   3168]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2018-03-02 09:05:29,353 [   3184]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-02 09:05:29,413 [   3244]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-02 09:05:29,413 [   3244]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 7f0be871
+2018-03-02 09:05:29,483 [   3314]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2018-03-02 09:05:29,637 [   3468]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 42 ms
+2018-03-02 09:05:29,975 [   3806]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-02 09:05:32,282 [   6113]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 105 ms, 0 sources processed
+2018-03-02 09:05:32,282 [   6113]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1848 ms, 1 sources processed
+2018-03-02 09:05:32,282 [   6113]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Kotlin Builder' builder took 58 ms, 0 sources processed
+2018-03-02 09:05:32,307 [   6138]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-02 09:05:33,873 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 09:05:33,886 [     13]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 09:05:35,456 [   1583]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1461 ms
+2018-03-02 09:05:36,055 [   2182]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 09:05:38,066 [   4193]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2011 ms
+2018-03-02 09:05:38,067 [   4194]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 09:05:38,750 [   4877]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 09:05:39,419 [   5546]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 5551 ms
+2018-03-02 09:05:39,568 [   5695]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-03-02 09:07:52,017 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 09:07:52,018 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 09:07:52,922 [    905]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 855 ms
+2018-03-02 09:07:53,225 [   1208]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 09:07:54,119 [   2102]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 894 ms
+2018-03-02 09:07:54,119 [   2102]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 09:07:54,446 [   2429]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 09:07:55,021 [   3004]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-02 09:07:55,033 [   3016]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-02 09:07:55,094 [   3077]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-02 09:07:55,094 [   3077]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 3c3c1bd6
+2018-03-02 09:07:55,204 [   3187]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-03-02 09:07:55,711 [   3694]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-02 09:07:57,495 [   5478]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-02 09:07:57,632 [   5615]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 57 ms, 0 sources processed
+2018-03-02 09:07:57,632 [   5615]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1740 ms, 1 sources processed
+2018-03-02 09:07:57,654 [   5637]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-02 09:07:59,169 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 09:07:59,170 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 09:08:00,121 [    953]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 880 ms
+2018-03-02 09:08:00,353 [   1185]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 09:08:01,191 [   2023]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 838 ms
+2018-03-02 09:08:01,191 [   2023]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 09:08:01,461 [   2293]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 09:08:01,780 [   2612]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2614 ms
+2018-03-02 09:32:46,418 [1487250]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-02 09:32:46,433 [1487265]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-02 09:32:46,551 [1487383]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-02 09:32:46,551 [1487383]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ab1eb679
+2018-03-02 09:32:46,642 [1487474]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 7 ms
+2018-03-02 09:32:46,897 [1487729]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-02 09:32:48,429 [1489261]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-02 09:32:48,569 [1489401]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1490 ms, 1 sources processed
+2018-03-02 09:32:48,569 [1489401]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 61 ms, 0 sources processed
+2018-03-02 09:32:48,595 [1489427]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-02 09:32:49,937 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 09:32:49,939 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 09:32:50,903 [    966]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 894 ms
+2018-03-02 09:32:51,149 [   1212]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 09:32:51,924 [   1987]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 775 ms
+2018-03-02 09:32:51,924 [   1987]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 09:32:52,180 [   2243]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 09:32:52,508 [   2571]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2576 ms
+2018-03-02 09:38:03,566 [ 313629]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-03-02 11:59:49,016 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 11:59:49,021 [      5]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 11:59:50,605 [   1589]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1457 ms
+2018-03-02 11:59:51,406 [   2390]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 11:59:53,626 [   4610]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2220 ms
+2018-03-02 11:59:53,629 [   4613]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 11:59:54,313 [   5297]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 11:59:57,691 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 11:59:57,692 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 11:59:59,244 [   1554]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1431 ms
+2018-03-02 11:59:59,630 [   1940]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 12:00:01,446 [   3756]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1816 ms
+2018-03-02 12:00:01,447 [   3757]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 12:00:02,099 [   4409]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 12:00:03,095 [   5405]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 5413 ms
+2018-03-02 12:25:23,121 [1525431]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-03-02 12:49:07,547 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 12:49:07,549 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 12:49:08,415 [    868]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 768 ms
+2018-03-02 12:49:09,013 [   1466]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/CLI-markbook, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 12:49:10,080 [   2533]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1067 ms
+2018-03-02 12:49:10,081 [   2534]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 12:49:10,369 [   2822]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 12:49:10,744 [   3197]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2018-03-02 12:49:10,783 [   3236]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-02 12:49:10,859 [   3312]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-02 12:49:10,859 [   3312]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 258a00b7
+2018-03-02 12:49:10,916 [   3369]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2018-03-02 12:49:11,047 [   3500]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 18 ms
+2018-03-02 12:49:11,355 [   3808]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: CLI-markbook
+2018-03-02 12:49:14,522 [   6975]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 158 ms, 0 sources processed
+2018-03-02 12:49:14,522 [   6975]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2684 ms, 2 sources processed
+2018-03-02 12:49:14,532 [   6985]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [CLI-markbook]
+2018-03-02 12:49:16,087 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 12:49:16,096 [      9]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 12:49:18,094 [   2007]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1861 ms
+2018-03-02 12:49:18,489 [   2402]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/CLI-markbook, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 12:49:20,300 [   4213]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1811 ms
+2018-03-02 12:49:20,301 [   4214]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 12:49:20,897 [   4810]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 12:49:21,622 [   5535]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 5539 ms
+2018-03-02 12:49:21,803 [   5716]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-03-02 12:50:06,760 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 12:50:06,762 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 12:50:07,991 [   1231]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1121 ms
+2018-03-02 12:50:08,382 [   1622]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/CLI-markbook, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 12:50:09,843 [   3083]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1461 ms
+2018-03-02 12:50:09,843 [   3083]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 12:50:10,342 [   3582]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 12:50:11,112 [   4352]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-02 12:50:11,134 [   4374]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-02 12:50:11,253 [   4493]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-02 12:50:11,253 [   4493]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started f09aafec
+2018-03-02 12:50:11,456 [   4696]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 25 ms
+2018-03-02 12:50:13,982 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 12:50:13,983 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 12:50:15,503 [   1521]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1429 ms
+2018-03-02 12:50:15,955 [   1973]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/CLI-markbook, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 12:50:17,683 [   3701]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1728 ms
+2018-03-02 12:50:17,683 [   3701]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 12:50:18,191 [   4209]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 12:50:18,743 [   4761]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 4764 ms
+2018-03-02 12:50:34,781 [  20799]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-03-02 12:50:36,258 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 12:50:36,260 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 12:50:37,017 [    759]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 699 ms
+2018-03-02 12:50:37,206 [    948]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/CLI-markbook, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 12:50:38,044 [   1786]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 838 ms
+2018-03-02 12:50:38,045 [   1787]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 12:50:38,339 [   2081]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 12:50:38,700 [   2442]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2447 ms
+2018-03-02 13:02:02,148 [ 685890]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-02 13:02:02,194 [ 685936]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-02 13:02:02,357 [ 686099]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-02 13:02:02,358 [ 686100]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 124e6445
+2018-03-02 13:02:02,539 [ 686281]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 21 ms
+2018-03-02 13:02:02,980 [ 686722]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: CLI-markbook
+2018-03-02 13:02:06,271 [ 690013]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-02 13:02:06,554 [ 690296]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 176 ms, 0 sources processed
+2018-03-02 13:02:06,555 [ 690297]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 3233 ms, 1 sources processed
+2018-03-02 13:02:06,567 [ 690309]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [CLI-markbook]
+2018-03-02 13:02:07,608 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-02 13:02:07,609 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-02 13:02:08,480 [    872]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 816 ms
+2018-03-02 13:02:08,761 [   1153]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/CLI-markbook, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-02 13:02:09,559 [   1951]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 798 ms
+2018-03-02 13:02:09,560 [   1952]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-02 13:02:09,856 [   2248]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-02 13:02:10,168 [   2560]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2566 ms
+2018-03-02 13:11:08,961 [ 541353]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-03-05 13:32:25,295 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-05 13:32:25,297 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-05 13:32:27,021 [   1726]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1536 ms
+2018-03-05 13:32:28,280 [   2985]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-05 13:32:30,726 [   5431]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2446 ms
+2018-03-05 13:32:30,727 [   5432]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-05 13:32:31,423 [   6128]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-05 13:32:35,262 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-05 13:32:35,263 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-05 13:32:36,764 [   1502]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1350 ms
+2018-03-05 13:32:37,100 [   1838]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-05 13:32:38,968 [   3706]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1868 ms
+2018-03-05 13:32:38,968 [   3706]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-05 13:32:39,510 [   4248]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-05 13:32:40,291 [   5029]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 5032 ms
+2018-03-06 12:09:03,696 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-06 12:09:03,709 [     13]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-06 12:09:04,672 [    976]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 895 ms
+2018-03-06 12:09:05,160 [   1464]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-06 12:09:06,191 [   2495]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1031 ms
+2018-03-06 12:09:06,192 [   2496]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-06 12:09:06,545 [   2849]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-06 12:09:07,169 [   3473]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2018-03-06 12:09:07,182 [   3486]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-06 12:09:07,242 [   3546]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-06 12:09:07,243 [   3547]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c878cea3
+2018-03-06 12:09:07,292 [   3596]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2018-03-06 12:09:07,436 [   3740]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 12 ms
+2018-03-06 12:09:07,719 [   4023]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-06 12:09:10,550 [   6854]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 93 ms, 0 sources processed
+2018-03-06 12:09:10,550 [   6854]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2306 ms, 1 sources processed
+2018-03-06 12:09:10,571 [   6875]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-06 12:09:12,282 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-06 12:09:12,283 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-06 12:09:13,578 [   1296]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1228 ms
+2018-03-06 12:09:14,196 [   1914]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-06 12:09:15,737 [   3455]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1541 ms
+2018-03-06 12:09:15,738 [   3456]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-06 12:09:16,325 [   4043]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-06 12:09:16,847 [   4565]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 4569 ms
+2018-03-06 12:09:16,976 [   4694]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-03-06 12:09:49,374 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-06 12:09:49,375 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-06 12:09:50,190 [    816]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 757 ms
+2018-03-06 12:09:50,482 [   1108]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-06 12:09:51,463 [   2089]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 981 ms
+2018-03-06 12:09:51,464 [   2090]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-06 12:09:51,792 [   2418]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-06 12:09:52,285 [   2911]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-06 12:09:52,329 [   2955]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-06 12:09:52,460 [   3086]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-06 12:09:52,460 [   3086]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started fa844e9
+2018-03-06 12:09:52,618 [   3244]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 10 ms
+2018-03-06 12:09:53,390 [   4016]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-06 12:09:55,759 [   6385]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-06 12:09:55,936 [   6562]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 77 ms, 0 sources processed
+2018-03-06 12:09:55,936 [   6562]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2256 ms, 1 sources processed
+2018-03-06 12:09:55,953 [   6579]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-06 12:09:57,479 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-06 12:09:57,480 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-06 12:09:58,257 [    778]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 703 ms
+2018-03-06 12:09:58,455 [    976]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-06 12:09:59,157 [   1678]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 702 ms
+2018-03-06 12:09:59,157 [   1678]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-06 12:09:59,400 [   1921]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-06 12:09:59,696 [   2217]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2220 ms
+2018-03-06 12:20:52,927 [ 655448]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-06 12:20:52,966 [ 655487]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-06 12:20:53,115 [ 655636]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-06 12:20:53,115 [ 655636]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 12b32946
+2018-03-06 12:20:53,469 [ 655990]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 26 ms
+2018-03-06 12:20:53,901 [ 656422]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-06 12:20:55,359 [ 657880]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-06 12:20:55,440 [ 657961]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-06 12:20:56,848 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-06 12:20:56,850 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-06 12:20:57,630 [    782]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 729 ms
+2018-03-06 12:20:57,828 [    980]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-06 12:20:58,593 [   1745]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 765 ms
+2018-03-06 12:20:58,593 [   1745]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-06 12:20:58,833 [   1985]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-06 12:20:59,127 [   2279]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2282 ms
+2018-03-06 12:25:24,881 [ 268033]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-06 12:25:24,923 [ 268075]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-06 12:25:25,077 [ 268229]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-06 12:25:25,080 [ 268232]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started f16e0aa4
+2018-03-06 12:25:25,244 [ 268396]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-06 12:25:25,680 [ 268832]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-06 12:25:28,260 [ 271412]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-06 12:25:28,469 [ 271621]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 96 ms, 0 sources processed
+2018-03-06 12:25:28,469 [ 271621]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2462 ms, 1 sources processed
+2018-03-06 12:25:28,487 [ 271639]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-06 12:25:29,768 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-06 12:25:29,769 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-06 12:25:30,617 [    849]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 796 ms
+2018-03-06 12:25:30,835 [   1067]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-06 12:25:31,653 [   1885]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 818 ms
+2018-03-06 12:25:31,653 [   1885]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-06 12:25:31,950 [   2182]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-06 12:25:32,271 [   2503]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2507 ms
+2018-03-06 12:29:50,775 [ 261007]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-06 12:29:50,805 [ 261037]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-06 12:29:50,933 [ 261165]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-06 12:29:50,933 [ 261165]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 3d39a253
+2018-03-06 12:29:51,157 [ 261389]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 11 ms
+2018-03-06 12:29:51,503 [ 261735]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-06 12:29:52,360 [ 262592]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-06 12:29:52,404 [ 262636]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-06 12:29:53,746 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-06 12:29:53,748 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-06 12:29:54,436 [    690]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 635 ms
+2018-03-06 12:29:54,663 [    917]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-06 12:29:55,389 [   1643]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 726 ms
+2018-03-06 12:29:55,390 [   1644]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-06 12:29:55,623 [   1877]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-06 12:29:55,908 [   2162]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2165 ms
+2018-03-06 12:31:06,848 [  73102]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-06 12:31:06,871 [  73125]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-06 12:31:07,009 [  73263]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-06 12:31:07,009 [  73263]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ebade5eb
+2018-03-06 12:31:07,107 [  73361]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 7 ms
+2018-03-06 12:31:07,310 [  73564]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-06 12:31:08,814 [  75068]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-06 12:31:08,928 [  75182]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1430 ms, 1 sources processed
+2018-03-06 12:31:08,941 [  75195]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-06 12:31:10,368 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-06 12:31:10,369 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-06 12:31:11,080 [    712]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 642 ms
+2018-03-06 12:31:11,279 [    911]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-06 12:31:11,989 [   1621]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 710 ms
+2018-03-06 12:31:11,989 [   1621]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-06 12:31:12,238 [   1870]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-06 12:31:12,530 [   2162]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2166 ms
+2018-03-06 13:13:22,524 [2532156]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-03-07 08:42:54,278 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 08:42:54,282 [      4]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 08:42:55,692 [   1414]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1300 ms
+2018-03-07 08:42:56,449 [   2171]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 08:42:58,989 [   4711]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2540 ms
+2018-03-07 08:42:58,989 [   4711]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 08:42:59,637 [   5359]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 08:43:02,581 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 08:43:02,587 [      6]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 08:43:04,220 [   1639]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1496 ms
+2018-03-07 08:43:04,659 [   2078]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 08:43:06,305 [   3724]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1646 ms
+2018-03-07 08:43:06,309 [   3728]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 08:43:06,867 [   4286]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 08:43:07,904 [   5323]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 5328 ms
+2018-03-07 08:49:31,758 [ 389177]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 08:49:31,789 [ 389208]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 08:49:31,867 [ 389286]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 08:49:31,867 [ 389286]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started acc0ca9
+2018-03-07 08:49:32,067 [ 389486]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 11 ms
+2018-03-07 08:49:32,589 [ 390008]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 08:49:34,459 [ 391878]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 08:49:34,486 [ 391905]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 08:49:36,547 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 08:49:36,548 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 08:49:37,753 [   1206]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1108 ms
+2018-03-07 08:49:38,067 [   1520]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 08:49:38,932 [   2385]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 865 ms
+2018-03-07 08:49:38,932 [   2385]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 08:49:39,377 [   2830]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 08:49:40,209 [   3662]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3665 ms
+2018-03-07 08:49:40,507 [   3960]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 08:49:40,530 [   3983]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 08:49:40,641 [   4094]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 08:49:40,641 [   4094]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 21667c8
+2018-03-07 08:49:40,758 [   4211]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 12 ms
+2018-03-07 08:49:41,052 [   4505]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 08:49:42,533 [   5986]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 08:49:42,561 [   6014]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 08:49:43,518 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 08:49:43,519 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 08:49:44,171 [    653]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 611 ms
+2018-03-07 08:49:44,343 [    825]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 08:49:45,021 [   1503]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 678 ms
+2018-03-07 08:49:45,022 [   1504]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 08:49:45,268 [   1750]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 08:49:45,575 [   2057]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2061 ms
+2018-03-07 08:51:34,490 [ 110972]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 08:51:34,534 [ 111016]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 08:51:34,694 [ 111176]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 08:51:34,694 [ 111176]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 9417a2a2
+2018-03-07 08:51:34,901 [ 111383]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 11 ms
+2018-03-07 08:51:35,222 [ 111704]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 08:51:36,939 [ 113421]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 08:51:37,068 [ 113550]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1647 ms, 1 sources processed
+2018-03-07 08:51:37,069 [ 113551]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 62 ms, 0 sources processed
+2018-03-07 08:51:37,088 [ 113570]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 08:51:38,280 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 08:51:38,281 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 08:51:39,530 [   1250]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1194 ms
+2018-03-07 08:51:39,736 [   1456]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 08:51:40,466 [   2186]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 730 ms
+2018-03-07 08:51:40,466 [   2186]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 08:51:40,719 [   2439]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 08:51:41,015 [   2735]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2740 ms
+2018-03-07 08:52:18,489 [  40209]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 08:52:18,542 [  40262]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 08:52:18,716 [  40436]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 08:52:18,716 [  40436]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 44166533
+2018-03-07 08:52:18,917 [  40637]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 24 ms
+2018-03-07 08:52:19,200 [  40920]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 08:52:20,603 [  42323]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 08:52:20,643 [  42363]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 08:52:21,828 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 08:52:21,830 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 08:52:22,695 [    867]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 803 ms
+2018-03-07 08:52:22,902 [   1074]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 08:52:23,944 [   2116]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1042 ms
+2018-03-07 08:52:23,944 [   2116]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 08:52:24,209 [   2381]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 08:52:24,734 [   2906]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2909 ms
+2018-03-07 08:52:32,939 [  11111]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 08:52:32,992 [  11164]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 08:52:33,110 [  11282]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 08:52:33,111 [  11283]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c0cbb938
+2018-03-07 08:52:33,286 [  11458]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 12 ms
+2018-03-07 08:52:33,830 [  12002]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 08:52:35,534 [  13706]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 08:52:35,694 [  13866]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1627 ms, 1 sources processed
+2018-03-07 08:52:35,694 [  13866]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 59 ms, 0 sources processed
+2018-03-07 08:52:35,708 [  13880]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 08:52:37,228 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 08:52:37,229 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 08:52:37,974 [    746]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 692 ms
+2018-03-07 08:52:38,206 [    978]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 08:52:38,993 [   1765]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 787 ms
+2018-03-07 08:52:38,994 [   1766]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 08:52:39,266 [   2038]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 08:52:39,585 [   2357]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2360 ms
+2018-03-07 09:23:19,694 [1842466]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:23:19,724 [1842496]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:23:19,783 [1842555]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:23:19,783 [1842555]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 7e529442
+2018-03-07 09:23:19,876 [1842648]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-03-07 09:23:20,113 [1842885]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:23:21,621 [1844393]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:23:21,789 [1844561]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1428 ms, 1 sources processed
+2018-03-07 09:23:21,789 [1844561]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 89 ms, 0 sources processed
+2018-03-07 09:23:21,802 [1844574]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:23:23,296 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:23:23,297 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:23:23,957 [    662]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 619 ms
+2018-03-07 09:23:24,143 [    848]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:23:24,860 [   1565]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 717 ms
+2018-03-07 09:23:24,861 [   1566]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:23:25,132 [   1837]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:23:25,564 [   2269]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2273 ms
+2018-03-07 09:23:31,210 [   7915]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:23:31,246 [   7951]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:23:31,407 [   8112]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:23:31,407 [   8112]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 76a97281
+2018-03-07 09:23:31,483 [   8188]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-07 09:23:31,803 [   8508]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:23:33,923 [  10628]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:23:34,046 [  10751]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2036 ms, 1 sources processed
+2018-03-07 09:23:34,047 [  10752]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 51 ms, 0 sources processed
+2018-03-07 09:23:34,060 [  10765]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:23:35,214 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:23:35,215 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:23:35,880 [    666]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 617 ms
+2018-03-07 09:23:36,072 [    858]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:23:36,790 [   1576]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 718 ms
+2018-03-07 09:23:36,791 [   1577]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:23:37,020 [   1806]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:23:37,331 [   2117]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2120 ms
+2018-03-07 09:26:20,128 [ 164914]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:26:20,148 [ 164934]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:26:20,313 [ 165099]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:26:20,314 [ 165100]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started f535d36b
+2018-03-07 09:26:20,445 [ 165231]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-07 09:26:20,657 [ 165443]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:26:22,054 [ 166840]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:26:22,199 [ 166985]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1316 ms, 1 sources processed
+2018-03-07 09:26:22,200 [ 166986]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 58 ms, 0 sources processed
+2018-03-07 09:26:22,224 [ 167010]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:26:23,625 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:26:23,626 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:26:24,283 [    658]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 611 ms
+2018-03-07 09:26:24,487 [    862]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:26:25,133 [   1508]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 647 ms
+2018-03-07 09:26:25,133 [   1508]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:26:25,361 [   1736]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:26:25,664 [   2039]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2043 ms
+2018-03-07 09:26:41,220 [  17595]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:26:41,261 [  17636]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:26:41,341 [  17716]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:26:41,341 [  17716]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 4db92800
+2018-03-07 09:26:41,513 [  17888]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 10 ms
+2018-03-07 09:26:41,913 [  18288]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:26:43,751 [  20126]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:26:43,892 [  20267]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1828 ms, 1 sources processed
+2018-03-07 09:26:43,892 [  20267]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 52 ms, 0 sources processed
+2018-03-07 09:26:43,903 [  20278]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:26:44,952 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:26:44,954 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:26:45,664 [    712]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 648 ms
+2018-03-07 09:26:45,861 [    909]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:26:46,617 [   1665]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 756 ms
+2018-03-07 09:26:46,617 [   1665]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:26:46,874 [   1922]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:26:47,193 [   2241]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2245 ms
+2018-03-07 09:27:18,734 [  33782]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:27:18,767 [  33815]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:27:18,916 [  33964]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:27:18,916 [  33964]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b6e1b278
+2018-03-07 09:27:19,044 [  34092]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 7 ms
+2018-03-07 09:27:19,350 [  34398]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:27:20,778 [  35826]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:27:20,887 [  35935]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 52 ms, 0 sources processed
+2018-03-07 09:27:20,887 [  35935]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1378 ms, 1 sources processed
+2018-03-07 09:27:20,896 [  35944]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:27:22,072 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:27:22,073 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:27:22,870 [    798]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 737 ms
+2018-03-07 09:27:23,108 [   1036]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:27:23,860 [   1788]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 753 ms
+2018-03-07 09:27:23,860 [   1788]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:27:24,097 [   2025]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:27:24,391 [   2319]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2322 ms
+2018-03-07 09:27:31,268 [   9196]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:27:31,294 [   9222]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:27:31,408 [   9336]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:27:31,408 [   9336]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 54508df3
+2018-03-07 09:27:31,567 [   9495]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-07 09:27:31,787 [   9715]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:27:33,550 [  11478]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:27:33,687 [  11615]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1667 ms, 1 sources processed
+2018-03-07 09:27:33,687 [  11615]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 61 ms, 0 sources processed
+2018-03-07 09:27:33,710 [  11638]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:27:35,046 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:27:35,048 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:27:35,749 [    703]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 655 ms
+2018-03-07 09:27:35,934 [    888]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:27:36,605 [   1559]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 670 ms
+2018-03-07 09:27:36,605 [   1559]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:27:36,842 [   1796]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:27:37,122 [   2076]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2079 ms
+2018-03-07 09:28:04,614 [  29568]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:28:04,646 [  29600]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:28:04,728 [  29682]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:28:04,728 [  29682]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ec733872
+2018-03-07 09:28:04,870 [  29824]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-03-07 09:28:05,146 [  30100]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:28:06,558 [  31512]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:28:06,694 [  31648]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 54 ms, 0 sources processed
+2018-03-07 09:28:06,694 [  31648]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1361 ms, 1 sources processed
+2018-03-07 09:28:06,707 [  31661]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:28:08,451 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:28:08,453 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:28:09,557 [   1106]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1042 ms
+2018-03-07 09:28:09,895 [   1444]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:28:10,981 [   2530]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1085 ms
+2018-03-07 09:28:10,981 [   2530]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:28:11,403 [   2952]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:28:11,962 [   3511]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3514 ms
+2018-03-07 09:28:16,782 [   8331]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:28:16,819 [   8368]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:28:16,945 [   8494]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:28:16,946 [   8495]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started a746a76
+2018-03-07 09:28:17,064 [   8613]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-07 09:28:17,307 [   8856]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:28:18,718 [  10267]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:28:18,845 [  10394]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1349 ms, 1 sources processed
+2018-03-07 09:28:18,847 [  10396]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 60 ms, 0 sources processed
+2018-03-07 09:28:18,857 [  10406]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:28:20,076 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:28:20,078 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:28:20,775 [    699]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 630 ms
+2018-03-07 09:28:20,984 [    908]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:28:21,649 [   1573]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 665 ms
+2018-03-07 09:28:21,649 [   1573]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:28:21,907 [   1831]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:28:22,233 [   2157]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2160 ms
+2018-03-07 09:28:27,171 [   7095]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:28:27,189 [   7113]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:28:27,271 [   7195]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:28:27,272 [   7196]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 86bf5f91
+2018-03-07 09:28:27,422 [   7346]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 7 ms
+2018-03-07 09:28:27,806 [   7730]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:28:29,325 [   9249]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:28:29,416 [   9340]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1507 ms, 1 sources processed
+2018-03-07 09:28:29,426 [   9350]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:28:30,579 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:28:30,580 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:28:31,275 [    696]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 643 ms
+2018-03-07 09:28:31,476 [    897]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:28:32,164 [   1585]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 688 ms
+2018-03-07 09:28:32,164 [   1585]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:28:32,409 [   1830]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:28:32,690 [   2111]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2114 ms
+2018-03-07 09:32:03,049 [ 212470]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:32:03,060 [ 212481]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:32:03,253 [ 212674]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:32:03,254 [ 212675]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 7f01764
+2018-03-07 09:32:03,359 [ 212780]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-07 09:32:03,639 [ 213060]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:32:05,095 [ 214516]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:32:05,256 [ 214677]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1348 ms, 1 sources processed
+2018-03-07 09:32:05,256 [ 214677]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 65 ms, 0 sources processed
+2018-03-07 09:32:05,268 [ 214689]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:32:06,730 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:32:06,732 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:32:07,454 [    724]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 653 ms
+2018-03-07 09:32:07,632 [    902]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:32:08,357 [   1627]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 726 ms
+2018-03-07 09:32:08,358 [   1628]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:32:08,631 [   1901]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:32:08,913 [   2183]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2186 ms
+2018-03-07 09:32:21,302 [  14572]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:32:21,332 [  14602]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:32:21,426 [  14696]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:32:21,426 [  14696]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 3f2517e7
+2018-03-07 09:32:21,516 [  14786]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-07 09:32:21,917 [  15187]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:32:23,323 [  16593]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:32:23,418 [  16688]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1347 ms, 1 sources processed
+2018-03-07 09:32:23,436 [  16706]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:32:24,773 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:32:24,775 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:32:25,526 [    753]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 687 ms
+2018-03-07 09:32:25,713 [    940]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:32:26,463 [   1690]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 750 ms
+2018-03-07 09:32:26,463 [   1690]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:32:26,706 [   1933]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:32:27,014 [   2241]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2244 ms
+2018-03-07 09:34:05,325 [ 100552]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:34:05,334 [ 100561]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:34:05,473 [ 100700]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:34:05,473 [ 100700]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started da486412
+2018-03-07 09:34:05,605 [ 100832]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 10 ms
+2018-03-07 09:34:05,904 [ 101131]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:34:07,257 [ 102484]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:34:07,357 [ 102584]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1307 ms, 1 sources processed
+2018-03-07 09:34:07,366 [ 102593]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:34:08,631 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:34:08,632 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:34:09,285 [    654]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 613 ms
+2018-03-07 09:34:09,480 [    849]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:34:10,215 [   1584]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 735 ms
+2018-03-07 09:34:10,216 [   1585]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:34:10,477 [   1846]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:34:10,780 [   2149]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2152 ms
+2018-03-07 09:35:56,336 [ 107705]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:35:56,362 [ 107731]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:35:56,458 [ 107827]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:35:56,458 [ 107827]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started fa5742e0
+2018-03-07 09:35:56,580 [ 107949]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-03-07 09:35:56,842 [ 108211]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:35:58,609 [ 109978]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:35:58,648 [ 110017]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:36:00,048 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:36:00,049 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:36:00,912 [    864]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 778 ms
+2018-03-07 09:36:01,101 [   1053]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:36:01,809 [   1761]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 708 ms
+2018-03-07 09:36:01,809 [   1761]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:36:02,057 [   2009]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:36:02,362 [   2314]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2317 ms
+2018-03-07 09:36:11,088 [  11040]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:36:11,104 [  11056]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:36:11,300 [  11252]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:36:11,301 [  11253]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 85c79453
+2018-03-07 09:36:11,419 [  11371]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 9 ms
+2018-03-07 09:36:11,664 [  11616]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:36:13,014 [  12966]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:36:13,130 [  13082]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1314 ms, 1 sources processed
+2018-03-07 09:36:13,141 [  13093]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:36:14,475 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:36:14,476 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:36:15,194 [    719]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 668 ms
+2018-03-07 09:36:15,412 [    937]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:36:16,335 [   1860]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 923 ms
+2018-03-07 09:36:16,335 [   1860]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:36:16,638 [   2163]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:36:17,009 [   2534]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2537 ms
+2018-03-07 09:36:21,952 [   7477]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:36:21,999 [   7524]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:36:22,131 [   7656]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:36:22,131 [   7656]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 7a73bcd3
+2018-03-07 09:36:22,281 [   7806]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 11 ms
+2018-03-07 09:36:22,563 [   8088]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:36:24,040 [   9565]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:36:24,161 [   9686]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1441 ms, 1 sources processed
+2018-03-07 09:36:24,161 [   9686]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 52 ms, 0 sources processed
+2018-03-07 09:36:24,175 [   9700]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:36:25,514 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:36:25,515 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:36:26,231 [    718]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 662 ms
+2018-03-07 09:36:26,456 [    943]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:36:27,292 [   1779]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 836 ms
+2018-03-07 09:36:27,292 [   1779]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:36:27,559 [   2046]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:36:27,931 [   2418]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2420 ms
+2018-03-07 09:36:46,766 [  21253]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:36:46,777 [  21264]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:36:46,914 [  21401]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:36:46,915 [  21402]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 365b3c77
+2018-03-07 09:36:47,043 [  21530]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-07 09:36:47,285 [  21772]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:36:48,701 [  23188]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:36:48,822 [  23309]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1354 ms, 1 sources processed
+2018-03-07 09:36:48,822 [  23309]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 52 ms, 0 sources processed
+2018-03-07 09:36:48,841 [  23328]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:36:49,897 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:36:49,898 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:36:50,595 [    698]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 641 ms
+2018-03-07 09:36:50,776 [    879]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:36:51,548 [   1651]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 772 ms
+2018-03-07 09:36:51,548 [   1651]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:36:51,816 [   1919]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:36:52,132 [   2235]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2239 ms
+2018-03-07 09:40:27,316 [ 217419]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:40:27,327 [ 217430]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:40:27,441 [ 217544]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:40:27,441 [ 217544]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started a621ff32
+2018-03-07 09:40:27,570 [ 217673]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-03-07 09:40:27,798 [ 217901]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:40:29,186 [ 219289]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:40:29,276 [ 219379]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1345 ms, 1 sources processed
+2018-03-07 09:40:29,299 [ 219402]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:40:30,709 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:40:30,713 [      5]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:40:31,418 [    710]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 664 ms
+2018-03-07 09:40:31,628 [    920]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:40:32,328 [   1620]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 700 ms
+2018-03-07 09:40:32,329 [   1621]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:40:32,587 [   1879]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:40:32,893 [   2185]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2188 ms
+2018-03-07 09:40:52,143 [  21435]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-03-07 09:40:53,302 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:40:53,303 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:40:54,004 [    702]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 639 ms
+2018-03-07 09:40:54,184 [    882]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:40:54,908 [   1606]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 724 ms
+2018-03-07 09:40:54,908 [   1606]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:40:55,139 [   1837]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:40:55,424 [   2122]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2127 ms
+2018-03-07 09:41:09,351 [  16049]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:41:09,362 [  16060]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:41:09,457 [  16155]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:41:09,458 [  16156]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started daa57d1d
+2018-03-07 09:41:09,578 [  16276]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 11 ms
+2018-03-07 09:41:09,803 [  16501]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:41:11,231 [  17929]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:41:11,372 [  18070]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1379 ms, 1 sources processed
+2018-03-07 09:41:11,372 [  18070]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 59 ms, 0 sources processed
+2018-03-07 09:41:11,397 [  18095]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:41:12,626 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:41:12,628 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:41:13,341 [    715]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 656 ms
+2018-03-07 09:41:13,537 [    911]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:41:14,705 [   2079]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1168 ms
+2018-03-07 09:41:14,706 [   2080]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:41:14,966 [   2340]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:41:15,301 [   2675]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2678 ms
+2018-03-07 09:41:37,679 [  25053]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:41:37,708 [  25082]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:41:37,782 [  25156]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:41:37,782 [  25156]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 4b14fd6
+2018-03-07 09:41:37,890 [  25264]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 16 ms
+2018-03-07 09:41:38,159 [  25533]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:41:39,585 [  26959]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:41:39,723 [  27097]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 55 ms, 0 sources processed
+2018-03-07 09:41:39,723 [  27097]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1320 ms, 1 sources processed
+2018-03-07 09:41:39,744 [  27118]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:41:40,832 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:41:40,834 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:41:41,466 [    634]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 589 ms
+2018-03-07 09:41:41,640 [    808]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:41:42,470 [   1638]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 830 ms
+2018-03-07 09:41:42,471 [   1639]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:41:42,732 [   1900]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:41:43,067 [   2235]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2238 ms
+2018-03-07 09:41:51,336 [  10504]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:41:51,358 [  10526]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:41:51,506 [  10674]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:41:51,506 [  10674]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 2b0f6566
+2018-03-07 09:41:51,602 [  10770]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-03-07 09:41:51,831 [  10999]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:41:53,255 [  12423]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:41:53,379 [  12547]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 52 ms, 0 sources processed
+2018-03-07 09:41:53,379 [  12547]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1389 ms, 1 sources processed
+2018-03-07 09:41:53,393 [  12561]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:41:54,660 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:41:54,661 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:41:55,353 [    693]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 651 ms
+2018-03-07 09:41:55,558 [    898]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:41:56,263 [   1603]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 705 ms
+2018-03-07 09:41:56,263 [   1603]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:41:56,498 [   1838]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:41:56,852 [   2192]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2196 ms
+2018-03-07 09:41:58,594 [   3934]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-03-07 09:41:59,948 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:41:59,949 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:42:00,659 [    711]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 662 ms
+2018-03-07 09:42:00,843 [    895]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:42:01,518 [   1570]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 675 ms
+2018-03-07 09:42:01,519 [   1571]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:42:01,768 [   1820]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:42:02,089 [   2141]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2146 ms
+2018-03-07 09:42:03,580 [   3632]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-03-07 09:42:04,956 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:42:04,957 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:42:05,614 [    658]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 609 ms
+2018-03-07 09:42:05,788 [    832]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:42:06,450 [   1494]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 662 ms
+2018-03-07 09:42:06,450 [   1494]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:42:06,688 [   1732]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:42:07,010 [   2054]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2057 ms
+2018-03-07 09:42:16,467 [  11511]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:42:16,477 [  11521]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:42:16,550 [  11594]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:42:16,550 [  11594]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started c3c44194
+2018-03-07 09:42:16,671 [  11715]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-07 09:42:16,945 [  11989]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:42:18,313 [  13357]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:42:18,412 [  13456]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1331 ms, 1 sources processed
+2018-03-07 09:42:18,421 [  13465]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:42:19,638 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:42:19,639 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:42:20,313 [    675]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 621 ms
+2018-03-07 09:42:20,496 [    858]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:42:21,226 [   1588]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 730 ms
+2018-03-07 09:42:21,226 [   1588]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:42:21,465 [   1827]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:42:21,784 [   2146]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2150 ms
+2018-03-07 09:42:33,090 [  13452]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:42:33,100 [  13462]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:42:33,222 [  13584]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:42:33,222 [  13584]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started e7c8bc43
+2018-03-07 09:42:33,366 [  13728]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 7 ms
+2018-03-07 09:42:33,657 [  14019]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:42:35,255 [  15617]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:42:35,380 [  15742]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1547 ms, 1 sources processed
+2018-03-07 09:42:35,404 [  15766]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:42:36,617 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:42:36,618 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:42:37,716 [   1099]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1008 ms
+2018-03-07 09:42:38,080 [   1463]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:42:39,240 [   2623]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1160 ms
+2018-03-07 09:42:39,240 [   2623]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:42:39,586 [   2969]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:42:39,879 [   3262]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3269 ms
+2018-03-07 09:42:40,110 [   3493]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:42:40,119 [   3502]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:42:40,195 [   3578]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:42:40,196 [   3579]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started a65daac2
+2018-03-07 09:42:40,287 [   3670]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-07 09:42:40,530 [   3913]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:42:41,940 [   5323]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:42:42,065 [   5448]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1354 ms, 1 sources processed
+2018-03-07 09:42:42,078 [   5461]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:42:43,502 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:42:43,503 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:42:44,210 [    708]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 646 ms
+2018-03-07 09:42:44,410 [    908]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:42:45,111 [   1609]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 701 ms
+2018-03-07 09:42:45,112 [   1610]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:42:45,360 [   1858]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:42:45,718 [   2216]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2223 ms
+2018-03-07 09:42:48,752 [   5250]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-03-07 09:42:50,146 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:42:50,147 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:42:50,993 [    847]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 788 ms
+2018-03-07 09:42:51,186 [   1040]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:42:51,997 [   1851]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 811 ms
+2018-03-07 09:42:51,997 [   1851]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:42:52,316 [   2170]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:42:52,727 [   2581]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2586 ms
+2018-03-07 09:42:54,316 [   4170]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:42:54,363 [   4217]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:42:54,438 [   4292]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:42:54,439 [   4293]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started efa6152b
+2018-03-07 09:42:54,595 [   4449]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 9 ms
+2018-03-07 09:42:54,842 [   4696]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:42:56,521 [   6375]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:42:56,667 [   6521]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1606 ms, 1 sources processed
+2018-03-07 09:42:56,668 [   6522]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 65 ms, 0 sources processed
+2018-03-07 09:42:56,679 [   6533]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:42:58,090 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:42:58,091 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:42:58,866 [    776]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 692 ms
+2018-03-07 09:42:59,096 [   1006]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:42:59,938 [   1848]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 842 ms
+2018-03-07 09:42:59,939 [   1849]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:43:00,209 [   2119]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:43:00,567 [   2477]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2481 ms
+2018-03-07 09:43:13,108 [  15018]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 09:43:13,132 [  15042]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 09:43:13,233 [  15143]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 09:43:13,233 [  15143]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 3b2f3185
+2018-03-07 09:43:13,316 [  15226]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-07 09:43:13,514 [  15424]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: sandbox
+2018-03-07 09:43:14,857 [  16767]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 09:43:15,003 [  16913]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 59 ms, 0 sources processed
+2018-03-07 09:43:15,003 [  16913]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1271 ms, 1 sources processed
+2018-03-07 09:43:15,021 [  16931]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [sandbox]
+2018-03-07 09:43:16,309 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 09:43:16,310 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 09:43:17,031 [    722]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 666 ms
+2018-03-07 09:43:17,227 [    918]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/sandbox, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 09:43:17,985 [   1676]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 758 ms
+2018-03-07 09:43:17,986 [   1677]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 09:43:18,221 [   1912]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 09:43:18,508 [   2199]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2203 ms
+2018-03-07 09:50:41,698 [ 445389]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-03-07 13:27:34,621 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 13:27:34,639 [     18]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 13:27:36,682 [   2061]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1938 ms
+2018-03-07 13:27:38,046 [   3425]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 13:27:40,129 [   5508]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2084 ms
+2018-03-07 13:27:40,132 [   5511]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 13:27:40,717 [   6096]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 13:27:44,532 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 13:27:44,533 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 13:27:46,253 [   1722]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1592 ms
+2018-03-07 13:27:46,640 [   2109]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 13:27:48,528 [   3997]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1888 ms
+2018-03-07 13:27:48,528 [   3997]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 13:27:49,124 [   4593]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 13:27:49,885 [   5354]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 5357 ms
+2018-03-07 13:47:40,857 [1196326]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 13:47:40,901 [1196370]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 13:47:41,081 [1196550]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 13:47:41,081 [1196550]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 22ce595b
+2018-03-07 13:47:41,355 [1196824]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 15 ms
+2018-03-07 13:47:41,761 [1197230]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-07 13:47:43,448 [1198917]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 13:47:43,485 [1198954]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-07 13:47:44,819 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 13:47:44,820 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 13:47:45,558 [    739]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 656 ms
+2018-03-07 13:47:45,753 [    934]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 13:47:46,434 [   1615]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 681 ms
+2018-03-07 13:47:46,435 [   1616]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 13:47:46,660 [   1841]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 13:47:46,968 [   2149]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2153 ms
+2018-03-07 13:52:45,113 [ 300294]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 13:52:45,149 [ 300330]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 13:52:45,342 [ 300523]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 13:52:45,342 [ 300523]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 538f61f9
+2018-03-07 13:52:45,453 [ 300634]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 16 ms
+2018-03-07 13:52:45,921 [ 301102]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-07 13:52:47,728 [ 302909]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 13:52:47,907 [ 303088]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 68 ms, 0 sources processed
+2018-03-07 13:52:47,907 [ 303088]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1753 ms, 1 sources processed
+2018-03-07 13:52:47,927 [ 303108]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-07 13:52:49,259 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 13:52:49,261 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 13:52:50,455 [   1196]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1041 ms
+2018-03-07 13:52:50,724 [   1465]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 13:52:51,808 [   2549]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1084 ms
+2018-03-07 13:52:51,808 [   2549]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 13:52:52,066 [   2807]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 13:52:52,452 [   3193]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3196 ms
+2018-03-07 13:56:48,367 [ 239108]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 13:56:48,388 [ 239129]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 13:56:48,459 [ 239200]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 13:56:48,459 [ 239200]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started a82ff4a9
+2018-03-07 13:56:48,552 [ 239293]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 10 ms
+2018-03-07 13:56:48,834 [ 239575]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-07 13:56:50,859 [ 241600]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 13:56:51,027 [ 241768]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1937 ms, 1 sources processed
+2018-03-07 13:56:51,027 [ 241768]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 72 ms, 0 sources processed
+2018-03-07 13:56:51,036 [ 241777]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-07 13:56:52,235 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 13:56:52,236 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 13:56:52,954 [    719]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 657 ms
+2018-03-07 13:56:53,144 [    909]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 13:56:53,841 [   1606]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 698 ms
+2018-03-07 13:56:53,842 [   1607]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 13:56:54,067 [   1832]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 13:56:54,361 [   2126]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2130 ms
+2018-03-07 13:57:04,897 [  12662]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 13:57:04,933 [  12698]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 13:57:05,056 [  12821]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 13:57:05,057 [  12822]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 8f926753
+2018-03-07 13:57:05,209 [  12974]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 12 ms
+2018-03-07 13:57:05,534 [  13299]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-07 13:57:07,018 [  14783]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 13:57:07,140 [  14905]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 56 ms, 0 sources processed
+2018-03-07 13:57:07,141 [  14906]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1420 ms, 1 sources processed
+2018-03-07 13:57:07,156 [  14921]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-07 13:57:08,535 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 13:57:08,536 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 13:57:09,295 [    760]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 718 ms
+2018-03-07 13:57:09,701 [   1166]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 13:57:10,460 [   1925]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 759 ms
+2018-03-07 13:57:10,460 [   1925]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 13:57:10,743 [   2208]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 13:57:11,066 [   2531]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2535 ms
+2018-03-07 14:13:15,219 [ 966684]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 14:13:15,259 [ 966724]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 14:13:15,387 [ 966852]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 14:13:15,387 [ 966852]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 9197f211
+2018-03-07 14:13:15,509 [ 966974]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 10 ms
+2018-03-07 14:13:15,764 [ 967229]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-07 14:13:17,378 [ 968843]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 14:13:17,560 [ 969025]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1551 ms, 1 sources processed
+2018-03-07 14:13:17,560 [ 969025]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 83 ms, 0 sources processed
+2018-03-07 14:13:17,591 [ 969056]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-07 14:13:19,008 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 14:13:19,010 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 14:13:19,739 [    731]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 662 ms
+2018-03-07 14:13:19,966 [    958]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 14:13:20,728 [   1720]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 761 ms
+2018-03-07 14:13:20,728 [   1720]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 14:13:21,048 [   2040]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 14:13:21,471 [   2463]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2468 ms
+2018-03-07 14:13:41,392 [  22384]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 14:13:41,429 [  22421]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 14:13:41,525 [  22517]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 14:13:41,525 [  22517]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started cbe97fb7
+2018-03-07 14:13:41,633 [  22625]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 13 ms
+2018-03-07 14:13:41,900 [  22892]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-07 14:13:43,256 [  24248]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 14:13:43,393 [  24385]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1311 ms, 1 sources processed
+2018-03-07 14:13:43,406 [  24398]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-07 14:13:44,774 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 14:13:44,775 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 14:13:45,649 [    875]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 811 ms
+2018-03-07 14:13:45,840 [   1066]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 14:13:46,496 [   1722]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 656 ms
+2018-03-07 14:13:46,496 [   1722]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 14:13:46,733 [   1959]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 14:13:47,111 [   2337]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2341 ms
+2018-03-07 14:13:52,639 [   7865]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 14:13:52,690 [   7916]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 14:13:52,816 [   8042]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 14:13:52,817 [   8043]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 579b5845
+2018-03-07 14:13:52,968 [   8194]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 6 ms
+2018-03-07 14:13:53,321 [   8547]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-07 14:13:55,207 [  10433]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 14:13:55,317 [  10543]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1876 ms, 1 sources processed
+2018-03-07 14:13:55,317 [  10543]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 61 ms, 0 sources processed
+2018-03-07 14:13:55,327 [  10553]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-07 14:13:56,423 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 14:13:56,424 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 14:13:57,124 [    701]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 632 ms
+2018-03-07 14:13:57,306 [    883]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 14:13:58,041 [   1618]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 735 ms
+2018-03-07 14:13:58,042 [   1619]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 14:13:58,371 [   1948]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 14:13:58,716 [   2293]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2297 ms
+2018-03-07 14:16:26,260 [ 149837]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 14:16:26,276 [ 149853]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 14:16:26,421 [ 149998]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 14:16:26,421 [ 149998]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started e3ea5bd2
+2018-03-07 14:16:26,540 [ 150117]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 5 ms
+2018-03-07 14:16:26,762 [ 150339]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-07 14:16:27,540 [ 151117]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 14:16:27,563 [ 151140]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-07 14:16:28,876 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 14:16:28,878 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 14:16:29,588 [    712]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 666 ms
+2018-03-07 14:16:29,775 [    899]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 14:16:30,466 [   1590]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 691 ms
+2018-03-07 14:16:30,466 [   1590]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 14:16:30,717 [   1841]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 14:16:30,997 [   2121]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2125 ms
+2018-03-07 14:16:38,103 [   9227]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 14:16:38,139 [   9263]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 14:16:38,216 [   9340]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 14:16:38,216 [   9340]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 13bb9a69
+2018-03-07 14:16:38,310 [   9434]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 8 ms
+2018-03-07 14:16:38,545 [   9669]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-07 14:16:40,129 [  11253]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 14:16:40,335 [  11459]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 87 ms, 0 sources processed
+2018-03-07 14:16:40,335 [  11459]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1534 ms, 1 sources processed
+2018-03-07 14:16:40,365 [  11489]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-07 14:16:41,954 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 14:16:41,958 [      4]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 14:16:42,902 [    948]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 870 ms
+2018-03-07 14:16:43,109 [   1155]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 14:16:44,013 [   2059]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 904 ms
+2018-03-07 14:16:44,013 [   2059]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 14:16:44,279 [   2325]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 14:16:44,599 [   2645]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2652 ms
+2018-03-07 14:16:45,237 [   3283]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2018-03-07 14:16:46,296 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 14:16:46,297 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 14:16:46,987 [    691]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 647 ms
+2018-03-07 14:16:47,186 [    890]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 14:16:47,962 [   1666]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 776 ms
+2018-03-07 14:16:47,962 [   1666]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 14:16:48,199 [   1903]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 14:16:48,521 [   2225]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2228 ms
+2018-03-07 14:18:06,513 [  80217]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-07 14:18:06,523 [  80227]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-07 14:18:06,661 [  80365]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-07 14:18:06,662 [  80366]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started ac06718a
+2018-03-07 14:18:06,840 [  80544]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 14 ms
+2018-03-07 14:18:07,077 [  80781]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: tsangArray
+2018-03-07 14:18:08,641 [  82345]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-07 14:18:08,823 [  82527]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 1451 ms, 1 sources processed
+2018-03-07 14:18:08,856 [  82560]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [tsangArray]
+2018-03-07 14:18:10,283 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-07 14:18:10,284 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-07 14:18:11,027 [    744]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 698 ms
+2018-03-07 14:18:11,205 [    922]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/tsangArray, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-07 14:18:11,926 [   1643]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 721 ms
+2018-03-07 14:18:11,927 [   1644]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-07 14:18:12,163 [   1880]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-07 14:18:12,449 [   2166]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2170 ms
+2018-03-07 14:27:56,612 [ 586329]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-03-23 13:09:55,566 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-23 13:09:55,585 [     20]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-23 13:09:57,684 [   2119]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1878 ms
+2018-03-23 13:09:59,145 [   3580]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/libraryApp/LibraryAppTemplate-master, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-23 13:10:01,571 [   6006]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2426 ms
+2018-03-23 13:10:01,583 [   6018]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-23 13:10:02,423 [   6858]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-23 13:10:03,636 [   8071]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2018-03-23 13:10:03,659 [   8094]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-23 13:10:03,864 [   8299]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-23 13:10:03,865 [   8300]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 666b43c8
+2018-03-23 13:10:03,987 [   8422]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2018-03-23 13:10:04,332 [   8767]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 45 ms
+2018-03-23 13:10:05,051 [   9486]   INFO - s.incremental.java.JavaBuilder - Compiling 5 java files; module: LibraryApp
+2018-03-23 13:10:08,766 [  13201]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [LibraryApp]
+2018-03-23 13:10:11,222 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-23 13:10:11,230 [      8]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-23 13:10:12,874 [   1652]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1521 ms
+2018-03-23 13:10:13,238 [   2016]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/libraryApp/LibraryAppTemplate-master, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-23 13:10:15,010 [   3788]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1772 ms
+2018-03-23 13:10:15,011 [   3789]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-23 13:10:15,490 [   4268]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-23 13:10:16,083 [   4861]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 4867 ms
+2018-03-23 13:10:16,218 [   4996]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2018-03-23 13:11:51,584 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-23 13:11:51,585 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-23 13:11:52,519 [    935]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 863 ms
+2018-03-23 13:11:52,762 [   1178]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/libraryApp/LibraryAppTemplate-master, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-23 13:11:53,543 [   1959]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 781 ms
+2018-03-23 13:11:53,544 [   1960]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-23 13:11:53,794 [   2210]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-23 13:11:54,120 [   2536]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2018-03-23 13:11:54,129 [   2545]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2018-03-23 13:11:54,186 [   2602]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2018-03-23 13:11:54,186 [   2602]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 18af1578
+2018-03-23 13:11:54,291 [   2707]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 8 ms
+2018-03-23 13:11:54,756 [   3172]   INFO - s.incremental.java.JavaBuilder - Compiling 5 java files; module: LibraryApp
+2018-03-23 13:11:56,932 [   5348]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-23 13:11:57,297 [   5713]   INFO - s.incremental.java.JavaBuilder - Compiling 4 java files; module: LibraryApp (tests)
+2018-03-23 13:11:57,574 [   5990]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2018-03-23 13:11:57,614 [   6030]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 2372 ms, 6 sources processed
+2018-03-23 13:11:57,614 [   6030]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'NotNull instrumentation' builder took 95 ms, 0 sources processed
+2018-03-23 13:11:57,614 [   6030]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Google AppEngine Enhancer' builder took 51 ms, 0 sources processed
+2018-03-23 13:11:57,624 [   6040]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_161 was used to compile [LibraryApp]
+2018-03-23 13:11:59,181 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2018-03-23 13:11:59,185 [      4]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /opt/IntelliJ/lib/jps-launcher.jar:/usr/lib/jvm/java-8-oracle/lib/tools.jar:/opt/IntelliJ/lib/optimizedFileManager.jar
+2018-03-23 13:12:00,566 [   1385]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1259 ms
+2018-03-23 13:12:00,911 [   1730]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/robuntu/IdeaProjects/libraryApp/LibraryAppTemplate-master, global options path = /home/robuntu/.IntelliJIdea2017.3/config/options
+2018-03-23 13:12:03,090 [   3909]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2180 ms
+2018-03-23 13:12:03,090 [   3909]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2018-03-23 13:12:03,985 [   4804]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2018-03-23 13:12:05,078 [   5897]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 5909 ms
+2018-03-23 13:12:05,371 [   6190]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.

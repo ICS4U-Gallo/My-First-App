@@ -1,0 +1,39 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[4.1 KB Volume]
+row=3
+col=2
+
+[ROOT-A]
+row=1
+col=0
+
+[419 MB Volume]
+row=3
+col=1
+
+[77b0673f-920a-45f3-ae2e-aac7eb386c6d]
+row=0
+col=0
+
+[F706-9BBB]
+row=3
+col=0
+
+[52 MB Volume]
+row=2
+col=1
+
+[Trash]
+row=2
+col=2
+
+[/]
+row=0
+col=2
+
+[/home/robuntu]
+row=1
+col=2
+

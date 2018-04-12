@@ -1,0 +1,19 @@
+[CLIENT] 0x28000a2
+  [CLIENT_LEADER] 0x2800008
+  [RES_NAME] sun-awt-X11-XFramePeer
+  [RES_CLASS] jetbrains-idea
+  [WM_NAME] myfirstapp [~/Michael/myFirstApp] - .../app/controllers/HomeController.java [root] - IntelliJ IDEA
+  [GEOMETRY] (0,29,1366,708)
+  [GEOMETRY-MAXIMIZED] (77,69,1049,600)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3800001
+  [RES_NAME] chromium-browser
+  [RES_CLASS] Chromium-browser
+  [WM_NAME] 2.2.4 My First App (Play) - Google Docs - Chromium
+  [GEOMETRY] (0,29,1366,708)
+  [GEOMETRY-MAXIMIZED] (3,29,1366,708)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

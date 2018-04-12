@@ -1,0 +1,21 @@
+# PyCharm failed to generate skeletons for these modules.
+# These skeletons will be re-generated automatically
+# when a newer module version or an updated generator becomes available.
+/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/_openssl.cpython-35m-x86_64-linux-gnu.so = 1.145 1479398275000
+/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/_constant_time.cpython-35m-x86_64-linux-gnu.so = 1.145 1479398275000
+/usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-35m-x86_64-linux-gnu.so = 1.145 1453353540000
+/usr/lib/python3/dist-packages/cairo/_cairo.cpython-35m-x86_64-linux-gnu.so = 1.145 1453204384000
+/usr/lib/python3/dist-packages/gi/_gi_cairo.cpython-35m-x86_64-linux-gnu.so = 1.145 1458942886000
+/usr/lib/python3/dist-packages/systemd/login.cpython-35m-x86_64-linux-gnu.so = 1.145 1453210921000
+/usr/lib/python3/dist-packages/systemd/_daemon.cpython-35m-x86_64-linux-gnu.so = 1.145 1453210921000
+/usr/lib/python3/dist-packages/gi/_gi.cpython-35m-x86_64-linux-gnu.so = 1.145 1458942885000
+/usr/lib/python3/dist-packages/pycurl.cpython-35m-x86_64-linux-gnu.so = 1.145 1457630803000
+/usr/lib/python3/dist-packages/_cffi_backend.cpython-35m-x86_64-linux-gnu.so = 1.145 1455785350000
+/usr/lib/python3/dist-packages/apt_inst.cpython-35m-x86_64-linux-gnu.so = 1.145 1519151315000
+/usr/lib/python3/dist-packages/apt_pkg.cpython-35m-x86_64-linux-gnu.so = 1.145 1519151316000
+/usr/lib/python3/dist-packages/xapian/_xapian.cpython-35m-x86_64-linux-gnu.so = 1.145 1453276553000
+/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/_padding.cpython-35m-x86_64-linux-gnu.so = 1.145 1479398275000
+/usr/lib/python3/dist-packages/_dbus_bindings.cpython-35m-x86_64-linux-gnu.so = 1.145 1453353540000
+/usr/lib/python3/dist-packages/systemd/_journal.cpython-35m-x86_64-linux-gnu.so = 1.145 1453210921000
+/usr/lib/python3/dist-packages/systemd/id128.cpython-35m-x86_64-linux-gnu.so = 1.145 1453210921000
+/usr/lib/python3/dist-packages/systemd/_reader.cpython-35m-x86_64-linux-gnu.so = 1.145 1453210921000

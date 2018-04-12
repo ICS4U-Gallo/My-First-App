@@ -1,0 +1,49 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="904" y="196" />
+    <location key="SettingsEditor.0.0.1366.768" x="169" y="0" />
+    <location key="new project wizard.0.0.1366.768" x="326" y="0" />
+    <location key="GitCloneDialog.0.0.1366.768" x="352" y="244" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="325" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="322" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="303" y="191" />
+    <location key="#Project_Structure.0.0.1366.768" x="166" y="0" />
+    <location key="extract.method.dialog.0.0.1366.768" x="557" y="283" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1366.768" x="519" y="64" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="177" y="15" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="370" y="162" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="479" y="237" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="424" y="249" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="268" y="0" />
+    <location key="MultipleFileMergeDialog.0.0.1366.768" x="372" y="97" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="362" y="94" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1366.768" x="413" y="73" />
+    <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.1366.768" x="328" y="262" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="267" y="0" />
+    <location key="#Plugins.0.0.1366.768" x="322" y="289" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="844" y="619" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="430" height="497" />
+    <size key="SettingsEditor.0.0.1366.768" width="1030" height="737" />
+    <size key="new project wizard.0.0.1366.768" width="873" height="737" />
+    <size key="GitCloneDialog.0.0.1366.768" width="664" height="256" />
+    <size key="NewModule_or_Project.wizard.0.0.1366.768" width="849" height="728" />
+    <size key="#Project_Structure.0.0.1366.768" width="1030" height="737" />
+    <size key="extract.method.dialog.0.0.1366.768" width="530" height="454" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1324" height="175" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1324" height="175" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1324" height="175" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1324" height="175" />
+    <size key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1366.768" width="548" height="638" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" width="621" height="417" />
+    <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" width="403" height="267" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" width="513" height="244" />
+    <size key="CommitChangelistDialog2.0.0.1366.768" width="826" height="737" />
+    <size key="MultipleFileMergeDialog.0.0.1366.768" width="617" height="548" />
+    <size key="Vcs.Push.Dialog.0.0.1366.768" width="641" height="554" />
+    <size key="VCS.ChangeListViewerDialog.0.0.1366.768" width="536" height="596" />
+    <size key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.1366.768" width="706" height="218" />
+    <size key="#Browse_Repositories.0.0.1366.768" width="830" height="697" />
+    <size key="#Plugins.0.0.1366.768" width="806" height="690" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="120" />
+  </component>
+</application>
