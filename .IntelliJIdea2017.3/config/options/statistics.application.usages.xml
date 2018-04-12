@@ -11,9 +11,10 @@
       <entry feature="ide.settings.Plugins" count="1" />
       <entry feature="ide.settings.Project Structure" count="1" />
       <entry feature="ide.settings.System Settings" count="1" />
-      <entry feature="ideaapp.started" count="27" />
-      <entry feature="scala.file.script.parsed" count="5191" />
-      <entry feature="terminal.linux" count="10" />
+      <entry feature="ideaapp.started" count="28" />
+      <entry feature="scala.file.script.parsed" count="5205" />
+      <entry feature="scala.sbt.shell.execute.command" count="33" />
+      <entry feature="terminal.linux" count="14" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="18" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="11" />
       <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="7" />

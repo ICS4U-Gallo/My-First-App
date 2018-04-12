@@ -239,3 +239,23 @@ cd PlayTemplate
 ls
 rm -rf .git
 git init
+git push -u origin master --force
+git init
+git remote add origin [https://github.com/SavritskiM/My-First-App]
+git pull origin master
+git remote remove origin
+git remote add origin https://github.com/SavritskiM/My-First-App
+git pull origin master
+git remote add origin [https://github.com/ICS4U-Gallo/My-First-App.git]
+git pull origin master
+git remote add origin https://github.com/ICS4U-Gallo/My-First-App.git
+git pull origin master
+git add -A
+git commit -m "my first commit"
+git push -u origin master
+git remote add origin https://github.com/ICS4U-Gallo/My-First-App.git
+git pull origin master
+sbt run
+robuntu -update
+rubuntu-update
+robuntu-update

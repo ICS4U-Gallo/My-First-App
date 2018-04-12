@@ -9,7 +9,8 @@
       <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="1" />
       <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="1" />
       <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
-      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="2" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="3" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$NewSession@Terminal" count="2" />
     </counts>
   </component>
 </application>

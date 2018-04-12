@@ -24,5 +24,6 @@
     <property name="last.imported.location" value="$USER_HOME$/tsang/InstallPractice" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.15467905" />
   </component>
 </application>

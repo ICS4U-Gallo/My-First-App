@@ -14117,7 +14117,10 @@ see <a href="http://www.kalistick.com">www.kalistick.com</a> for more informatio
 <br> 
 <img src="https://download.plugins.jetbrains.com/9564/screenshot_17392.png" width="552" height="201"> 
 <br> 
-<br>]]></description><version>1.1.6</version><vendor email='beansoft@126.com' url='https://github.com/beansoftapp/react-native-console'>BeanSoft</vendor><idea-version min="n/a" max="n/a" since-build='139.1603' /><change-notes><![CDATA[No new features, fix an regression bug in ios bundle command which was introduced in 1.1.5]]></change-notes><depends>com.intellij.modules.platform</depends><depends>org.jetbrains.plugins.terminal</depends><rating>5.0</rating></idea-plugin><idea-plugin downloads='360' size='22623596' date='1508254882000' url=''><name>StackInTheFlow</name><id>io.github.vcuswimlab.stackintheflow</id><description><![CDATA[A plugin to query Stack Overflow.]]></description><version>0.2.0</version><vendor email='vcuswimlab@gmail.com' url='https://github.com/vcu-swim-lab/stack-intheflow'>VCU SWIM Lab</vendor><idea-version min="n/a" max="n/a" since-build='162.1121' until-build='173.*'/><change-notes><![CDATA[* Numerous little bugfixes * Tentative support for other java platforms such as android studio]]></change-notes><depends>com.intellij.modules.java</depends><rating>00</rating></idea-plugin><idea-plugin downloads='4242' size='398959' date='1510306641000' url=''><name>PHP latest</name><id>me.artspb.idea.php.latest.plugin</id><description><![CDATA[The plugin brings the latest stable versions of the PHP interpreter to PhpStorm or IntelliJ IDEA with the PHP plugin. The Xdebug extension is bundled and enabled by default. At the moment only macOS and Linux are supported.]]></description><version>0.3</version><vendor email='contact@artspb.me' url='https://artspb.me'>Artem Khvastunov</vendor><idea-version min="n/a" max="n/a" since-build='145.0' /><change-notes><![CDATA[0.3 
+<br>]]></description><version>1.1.6</version><vendor email='beansoft@126.com' url='https://github.com/beansoftapp/react-native-console'>BeanSoft</vendor><idea-version min="n/a" max="n/a" since-build='139.1603' /><change-notes><![CDATA[No new features, fix an regression bug in ios bundle command which was introduced in 1.1.5]]></change-notes><depends>com.intellij.modules.platform</depends><depends>org.jetbrains.plugins.terminal</depends><rating>5.0</rating></idea-plugin><idea-plugin downloads='360' size='22623596' date='1508254882000' url=''><name>StackInTheFlow</name><id>io.github.vcuswimlab.stackintheflow</id><description><![CDATA[A plugin to query Stack Overflow.]]></description><version>0.2.0</version><vendor email='vcuswimlab@gmail.com' url='https://github.com/vcu-swim-lab/stack-intheflow'>VCU SWIM Lab</vendor><idea-version min="n/a" max="n/a" since-build='162.1121' until-build='173.*'/><change-notes><![CDATA[* Numerous little bugfixes * Tentative support for other java platforms such as android studio]]></change-notes><depends>com.intellij.modules.java</depends><rating>00</rating></idea-plugin><idea-plugin downloads='4242' size='398895' date='1523298954000' url=''><name>PHP latest</name><id>me.artspb.idea.php.latest.plugin</id><description><![CDATA[The plugin brings the latest stable versions of the PHP interpreter to PhpStorm or IntelliJ IDEA with the PHP plugin. The Xdebug extension is bundled and enabled by default. At the moment only macOS and Linux are supported.]]></description><version>0.4</version><vendor email='contact@artspb.me' url='https://artspb.me'>Artem Khvastunov</vendor><idea-version min="n/a" max="n/a" since-build='145.0' /><change-notes><![CDATA[0.4 
+<ul> 
+ <li>Support PHP 7.2.4.</li> 
+</ul> 0.3 
 <ul> 
  <li>Ability to download an interpreter during indexing.</li> 
 </ul> 0.2 
@@ -38717,10 +38720,14 @@ Add "Copy Absolute Path" right context menu item]]></change-notes><rating>00</ra
 <br> 根据当前类中成员变量判断控件是否已经存在, 避免重复添加
 <br> 1.4 添加了全选功能
 <br> 添加了不同的变量命名方式可供选择（匈牙利、驼峰、m驼峰）
-<br>]]></change-notes><rating>00</rating></idea-plugin><idea-plugin downloads='43475' size='15203340' date='1523275883000' url=''><name>SQLScout (SQLite Support)</name><id>com.idescout.sqlite</id><description><![CDATA[First-class SQLite support for Android Studio and IntelliJ IDEA. 
+<br>]]></change-notes><rating>00</rating></idea-plugin><idea-plugin downloads='43475' size='15203951' date='1523537777000' url=''><name>SQLScout (SQLite Support)</name><id>com.idescout.sqlite</id><description><![CDATA[First-class SQLite support for Android Studio and IntelliJ IDEA. 
 <br> 
 <br> View, manage and update SQLite databases in your Android device ( 
-<em>in real time</em>) and file system, from Android Studio and IntelliJ IDEA.]]></description><version>4.1.1</version><vendor email='support@idescout.com' url='https://www.idescout.com'>IDEScout, Inc.</vendor><idea-version min="n/a" max="n/a" since-build='173.0' /><change-notes><![CDATA[<b>Version 4.1.1</b> 
+<em>in real time</em>) and file system, from Android Studio and IntelliJ IDEA.]]></description><version>4.1.2</version><vendor email='support@idescout.com' url='https://www.idescout.com'>IDEScout, Inc.</vendor><idea-version min="n/a" max="n/a" since-build='173.0' /><change-notes><![CDATA[<b>Version 4.1.2</b> 
+<ul> 
+ <li>When creating a "Live Device" connection, now SQLScout checks whether the current selected build variant has SQLScout's server declared as dependency.</li> 
+</ul> 
+<b>Version 4.1.1</b> 
 <ul> 
  <li>Removed check where Android applications need to be launched from the IDE before connecting to a database.</li> 
  <li>Local data sources are now automatically removed if the database files they point to no longer exist.</li> 
