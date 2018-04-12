@@ -1,1 +1,1 @@
-{"logo_checksum": null, "share_inventory": false, "hostid": "1e20e7d8f48144d79928c4d234ddf2dd", "packages_checksum": "f6dc1967b02e316c1eb8c13871c25c3c4a2ba5b31046e9a03415148c", "hostname": "localhost"}
+{"share_inventory": false, "hostname": "localhost", "packages_checksum": "f67f2df57a55615c7b1503a24f3af6f401088eced7edc5c9ee1a3bcb", "hostid": "1e20e7d8f48144d79928c4d234ddf2dd", "logo_checksum": null}

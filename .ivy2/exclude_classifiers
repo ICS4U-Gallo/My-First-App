@@ -1,0 +1,1 @@
+{"{\"organization\":\"com.google.code.findbugs\",\"name\":\"jsr305\",\"revision\":\"1.3.9\",\"isChanging\":false,\"isTransitive\":true,\"isForce\":false,\"explicitArtifacts\":[],\"inclusions\":[],\"exclusions\":[],\"extraAttributes\":{},\"crossVersion\":{\"type\":\"Disabled\"}}":[{"name":"sources"}]}

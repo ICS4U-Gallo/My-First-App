@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <conversion>
   <applied-converters>
+    <converter id="Play2ModuleTypeConverterProvider" />
     <converter id="android-module-to-java-module" />
     <converter id="android-proguard-options" />
     <converter id="android-sdk-library" />
@@ -17,6 +18,7 @@
     <converter id="js-predefined-libraries-merged" />
     <converter id="junit-to-android-junit-configurations" />
     <converter id="nodejs-remote-debug-configuration-converter" />
+    <converter id="scala-facets-to-sdks" />
   </applied-converters>
   <project-files>
     <file path="/home/robuntu/IdeaProjects/sandbox/.idea/misc.xml" timestamp="1520010910000" />

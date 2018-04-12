@@ -1,3 +1,3 @@
-alias robuntu-update='bash robuntu-update.sh'
-alias test-mode='bash test-mode.sh'
-alias robuntu-install='bash robuntu-install.sh'
+alias robuntu-update='sudo bash robuntu-update.sh'
+alias robuntu-install='sudo bash robuntu-install.sh'
+alias test-mode='sudo bash test-mode.sh'

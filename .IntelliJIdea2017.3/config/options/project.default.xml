@@ -13,6 +13,24 @@
         <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
       </component>
+      <component name="SbtLocalSettings">
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Michael/myFirstApp" value="PREVIEW" />
+            <entry key="$USER_HOME$/tsang/BookStore" value="PREVIEW" />
+            <entry key="$USER_HOME$/tsang/InstallPractice" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
       <component name="masterDetails">
         <states>
           <state key="GlobalLibrariesConfigurable.UI">

@@ -154,3 +154,88 @@ test-mode start
 test-mode stop
 test-mode start
 test-mode stop
+cd tsang
+cd ..
+git status
+git add -A
+sudo git add -A
+git commit -m "out of testmode"
+git status
+git add -A
+git commit -m "Get out of test mode"
+git status
+git add IdeaProjects/LibraryAppTemplate/
+git add IdeaProjects/pbd-solutions/
+git add IdeaProjects/CLI-markbook/
+git status
+test-mode stop
+cd tsang
+wget https://github.com/MrGallo/PlayTemplate/archive/master.zip
+unzip master.zip
+ls
+mv InstallStuff BookStore
+ls
+sbt run
+cd tsang
+sbt run
+ls
+cd BookStore/
+sbt run
+sbt run
+robuntu-install -l
+sbt
+ls -a
+cd .sbt
+ls
+cd 1.0/
+ls
+cd ..
+cd boot
+ls
+cd ..
+cd .
+cd ..
+robuntu-install -l
+robuntu-install -list
+robuntu-install
+robuntu-install -l
+ls
+cd tsang/
+ls
+cd BookStore/
+la
+cd ~
+sudo rm -rf .sbt
+sudo rm -rf .ivy2/
+robuntu-install -l
+robuntu-install -a 2
+sbt
+ls
+cd tsang/BookStore/
+sbt
+robuntu-install -app 2
+echo "deb https://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 2EE0EA64E40A89B84B2DF73499E82A75642AC823
+sudo apt-get update
+sudo apt-get install sbt
+cd /home/robuntu/IdeaProjects/sandbox/
+wget https://github.com/MrGallo/PlayTemplate/archive/master.zip
+unzip master.zip
+mv PlayTemplate-master <NameOfApp>
+mv PlayTemplate-master <NameOfApp>mv PlayTemplate-master <NameOfApp>mv PlayTemplate-master Main
+cd tsang
+wget https://github.com/MrGallo/PlayTemplate/archive/master.zip
+unzip master.zip
+mv PlayTemplate-master BookStore
+cd BookStore
+sbt run
+robuntu-install -app 2
+echo "deb https://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
+cd /home/robuntu/Michael/
+git clone https://github.com/MrGallo/PlayTemplate.git
+rm -rf .git
+ls
+cd PlayTemplate
+ls
+rm -rf .git
+git init

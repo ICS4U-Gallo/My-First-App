@@ -19,4 +19,5 @@
   <property name="last-window-width" type="int" value="936"/>
   <property name="last-window-height" type="int" value="516"/>
   <property name="last-window-maximized" type="bool" value="false"/>
+  <property name="last-show-hidden" type="bool" value="true"/>
 </channel>
